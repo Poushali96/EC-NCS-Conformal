@@ -1,0 +1,36 @@
+{
+  "script": "EC_NCS_Rare_Mechanism_Validation_Gated_Colab.py",
+  "test_labels_used_for_selection": false,
+  "script_version": "1.1.0-colab-resumable",
+  "locked_seeds": [
+    1001,
+    1002,
+    1003,
+    1004,
+    1005,
+    1006,
+    1007,
+    1008,
+    1009,
+    1010
+  ],
+  "sample_size_settings_complete": true,
+  "negative_controls_present": true,
+  "oracle_is_diagnostic_only": true,
+  "neural_cqr_anchor_only": true,
+  "validation_gate_uses_training_only": true,
+  "outer_calibration_untouched_by_gate": true,
+  "exact_standard_fallback": true,
+  "checkpoint_resume": true,
+  "all_expected_settings_complete": true,
+  "recorded_setting_failures": 0,
+  "explanation_aligned_study_is_controlled_boundary_condition": true,
+  "primary_endpoints": [
+    "RareCoverageError",
+    "WorstMechanismCoverageError",
+    "RareWinkler",
+    "StableMeanWidth"
+  ],
+  "multiplicity": "Holm across the complete saved paired-test family",
+  "claim_rule": "Report observed outcomes, including negative EC-NCS results; never retune using test tables."
+}

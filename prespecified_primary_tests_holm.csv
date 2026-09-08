@@ -1,0 +1,31 @@
+Family,Experiment,Reference,Method,Metric,MeanDifference_GatedEC_minus_reference,Wins,Seeds,WilcoxonP,HolmAdjustedP
+explanation_value,sample_size,OOF Normalized CP,Validation-gated EC-NCS,RareCoverageError,0.08822645754330989,1,10,0.083984375,1.0
+explanation_value,sample_size,OOF Normalized CP,Validation-gated EC-NCS,RareWinkler,9.658623763906963,1,10,0.083984375,1.0
+explanation_value,sample_size,Standard CP,Validation-gated EC-NCS,RareCoverageError,-0.02962962962962965,1,10,1.0,1.0
+explanation_value,sample_size,Standard CP,Validation-gated EC-NCS,RareWinkler,-2.9171180071544582,1,10,1.0,1.0
+explanation_value,sample_size,Validation-gated shuffled explanations,Validation-gated EC-NCS,RareCoverageError,-0.02962962962962965,1,10,1.0,1.0
+explanation_value,sample_size,Validation-gated shuffled explanations,Validation-gated EC-NCS,RareWinkler,-2.9171180071544582,1,10,1.0,1.0
+explanation_value,explanation_aligned_reuse,OOF Normalized CP,Validation-gated EC-NCS,RareCoverageError,-0.0481251255284257,4,10,0.556640625,1.0
+explanation_value,explanation_aligned_reuse,OOF Normalized CP,Validation-gated EC-NCS,RareWinkler,-4.436855317540072,4,10,0.556640625,1.0
+explanation_value,explanation_aligned_reuse,Standard CP,Validation-gated EC-NCS,RareCoverageError,-0.1279940936434003,4,10,0.125,1.0
+explanation_value,explanation_aligned_reuse,Standard CP,Validation-gated EC-NCS,RareWinkler,-15.612862214457653,4,10,0.125,1.0
+explanation_value,explanation_aligned_reuse,Validation-gated shuffled explanations,Validation-gated EC-NCS,RareCoverageError,-0.1278317559810626,4,10,0.125,1.0
+explanation_value,explanation_aligned_reuse,Validation-gated shuffled explanations,Validation-gated EC-NCS,RareWinkler,-15.55703179452465,4,10,0.125,1.0
+explanation_value,model_reuse,OOF Normalized CP,Validation-gated EC-NCS,RareCoverageError,-0.02292417580697802,4,10,0.6953125,1.0
+explanation_value,model_reuse,OOF Normalized CP,Validation-gated EC-NCS,RareWinkler,-2.131948841794049,4,10,0.625,1.0
+explanation_value,model_reuse,Standard CP,Validation-gated EC-NCS,RareCoverageError,-0.0548274774987784,4,10,0.125,1.0
+explanation_value,model_reuse,Standard CP,Validation-gated EC-NCS,RareWinkler,-5.9911836069501065,4,10,0.125,1.0
+explanation_value,model_reuse,Validation-gated shuffled explanations,Validation-gated EC-NCS,RareCoverageError,-0.0548274774987784,4,10,0.125,1.0
+explanation_value,model_reuse,Validation-gated shuffled explanations,Validation-gated EC-NCS,RareWinkler,-5.9911836069501065,4,10,0.125,1.0
+cqr_boundary_condition,explanation_aligned_reuse,CQR-ExtraTrees,Validation-gated EC-NCS,RareCoverageError,0.05376058386573044,4,10,0.083984375,0.755859375
+cqr_boundary_condition,explanation_aligned_reuse,CQR-ExtraTrees,Validation-gated EC-NCS,RareWinkler,6.315302025972135,4,10,0.375,1.0
+cqr_boundary_condition,explanation_aligned_reuse,CQR-GBM,Validation-gated EC-NCS,RareCoverageError,0.10958279371101778,4,10,0.083984375,0.755859375
+cqr_boundary_condition,explanation_aligned_reuse,CQR-GBM,Validation-gated EC-NCS,RareWinkler,11.133875489159468,4,10,0.083984375,0.755859375
+cqr_boundary_condition,explanation_aligned_reuse,CQR-GBM explanation features,Validation-gated EC-NCS,RareCoverageError,0.24731092203282948,0,10,0.001953125,0.0234375
+cqr_boundary_condition,explanation_aligned_reuse,CQR-GBM explanation features,Validation-gated EC-NCS,RareWinkler,27.33916158906834,1,10,0.00390625,0.04296875
+cqr_boundary_condition,explanation_aligned_reuse,CQR-GBM interactions,Validation-gated EC-NCS,RareCoverageError,0.1616326651178081,2,10,0.037109375,0.37109375
+cqr_boundary_condition,explanation_aligned_reuse,CQR-GBM interactions,Validation-gated EC-NCS,RareWinkler,17.061110099235652,4,10,0.083984375,0.755859375
+cqr_boundary_condition,explanation_aligned_reuse,CQR-Neural,Validation-gated EC-NCS,RareCoverageError,-0.04333994345432506,4,10,0.556640625,1.0
+cqr_boundary_condition,explanation_aligned_reuse,CQR-Neural,Validation-gated EC-NCS,RareWinkler,-13.289766856739567,5,10,0.375,1.0
+cqr_boundary_condition,explanation_aligned_reuse,CQR-RF,Validation-gated EC-NCS,RareCoverageError,0.10988566169974176,4,10,0.083984375,0.755859375
+cqr_boundary_condition,explanation_aligned_reuse,CQR-RF,Validation-gated EC-NCS,RareWinkler,12.81351048043254,4,10,0.083984375,0.755859375

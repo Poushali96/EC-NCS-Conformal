@@ -1,0 +1,133 @@
+Experiment,TrainN,RareProbability,Reference,Method,Metric,MeanDifference_EC_minus_reference,WilcoxonP,Seeds,HolmAdjustedP
+explanation_aligned_reuse,1000,0.1,CQR-ExtraTrees,Validation-gated EC-NCS,RareCoverageError,0.05376058386573044,0.083984375,10,1.0
+explanation_aligned_reuse,1000,0.1,CQR-ExtraTrees,Validation-gated EC-NCS,WorstMechanismCoverageError,0.05376058386573044,0.083984375,10,1.0
+explanation_aligned_reuse,1000,0.1,CQR-ExtraTrees,Validation-gated EC-NCS,RareWinkler,6.315302025972135,0.375,10,1.0
+explanation_aligned_reuse,1000,0.1,CQR-ExtraTrees,Validation-gated EC-NCS,StableMeanWidth,-1.6223071778670846,0.001953125,10,0.2578125
+explanation_aligned_reuse,1000,0.1,CQR-GBM,Validation-gated EC-NCS,RareCoverageError,0.10958279371101778,0.083984375,10,1.0
+explanation_aligned_reuse,1000,0.1,CQR-GBM,Validation-gated EC-NCS,WorstMechanismCoverageError,0.10958279371101778,0.083984375,10,1.0
+explanation_aligned_reuse,1000,0.1,CQR-GBM,Validation-gated EC-NCS,RareWinkler,11.133875489159468,0.083984375,10,1.0
+explanation_aligned_reuse,1000,0.1,CQR-GBM,Validation-gated EC-NCS,StableMeanWidth,-3.3162559151827415,0.001953125,10,0.2578125
+explanation_aligned_reuse,1000,0.1,CQR-GBM explanation features,Validation-gated EC-NCS,RareCoverageError,0.24731092203282948,0.001953125,10,0.2578125
+explanation_aligned_reuse,1000,0.1,CQR-GBM explanation features,Validation-gated EC-NCS,WorstMechanismCoverageError,0.24731092203282948,0.001953125,10,0.2578125
+explanation_aligned_reuse,1000,0.1,CQR-GBM explanation features,Validation-gated EC-NCS,RareWinkler,27.33916158906834,0.00390625,10,0.3671875
+explanation_aligned_reuse,1000,0.1,CQR-GBM explanation features,Validation-gated EC-NCS,StableMeanWidth,-0.6074595737950194,0.064453125,10,1.0
+explanation_aligned_reuse,1000,0.1,CQR-GBM interactions,Validation-gated EC-NCS,RareCoverageError,0.1616326651178081,0.037109375,10,1.0
+explanation_aligned_reuse,1000,0.1,CQR-GBM interactions,Validation-gated EC-NCS,WorstMechanismCoverageError,0.1616326651178081,0.037109375,10,1.0
+explanation_aligned_reuse,1000,0.1,CQR-GBM interactions,Validation-gated EC-NCS,RareWinkler,17.061110099235652,0.083984375,10,1.0
+explanation_aligned_reuse,1000,0.1,CQR-GBM interactions,Validation-gated EC-NCS,StableMeanWidth,-2.6609166720872444,0.001953125,10,0.2578125
+explanation_aligned_reuse,1000,0.1,CQR-Neural,Validation-gated EC-NCS,RareCoverageError,-0.04333994345432506,0.556640625,10,1.0
+explanation_aligned_reuse,1000,0.1,CQR-Neural,Validation-gated EC-NCS,WorstMechanismCoverageError,-0.04333994345432506,0.556640625,10,1.0
+explanation_aligned_reuse,1000,0.1,CQR-Neural,Validation-gated EC-NCS,RareWinkler,-13.289766856739567,0.375,10,1.0
+explanation_aligned_reuse,1000,0.1,CQR-Neural,Validation-gated EC-NCS,StableMeanWidth,-5.228890332163146,0.001953125,10,0.2578125
+explanation_aligned_reuse,1000,0.1,CQR-RF,Validation-gated EC-NCS,RareCoverageError,0.10988566169974176,0.083984375,10,1.0
+explanation_aligned_reuse,1000,0.1,CQR-RF,Validation-gated EC-NCS,WorstMechanismCoverageError,0.10988566169974176,0.083984375,10,1.0
+explanation_aligned_reuse,1000,0.1,CQR-RF,Validation-gated EC-NCS,RareWinkler,12.81351048043254,0.083984375,10,1.0
+explanation_aligned_reuse,1000,0.1,CQR-RF,Validation-gated EC-NCS,StableMeanWidth,-1.8147104386727757,0.001953125,10,0.2578125
+explanation_aligned_reuse,1000,0.1,EC-NCS candidate (ungated),Validation-gated EC-NCS,RareCoverageError,0.17505639385049357,0.03125,10,1.0
+explanation_aligned_reuse,1000,0.1,EC-NCS candidate (ungated),Validation-gated EC-NCS,WorstMechanismCoverageError,0.17505639385049357,0.03125,10,1.0
+explanation_aligned_reuse,1000,0.1,EC-NCS candidate (ungated),Validation-gated EC-NCS,RareWinkler,21.65736838729542,0.03125,10,1.0
+explanation_aligned_reuse,1000,0.1,EC-NCS candidate (ungated),Validation-gated EC-NCS,StableMeanWidth,0.897559892148504,0.03125,10,1.0
+explanation_aligned_reuse,1000,0.1,OOF Normalized CP,Validation-gated EC-NCS,RareCoverageError,-0.0481251255284257,0.556640625,10,1.0
+explanation_aligned_reuse,1000,0.1,OOF Normalized CP,Validation-gated EC-NCS,WorstMechanismCoverageError,-0.0481251255284257,0.556640625,10,1.0
+explanation_aligned_reuse,1000,0.1,OOF Normalized CP,Validation-gated EC-NCS,RareWinkler,-4.436855317540072,0.556640625,10,1.0
+explanation_aligned_reuse,1000,0.1,OOF Normalized CP,Validation-gated EC-NCS,StableMeanWidth,-0.16517656724471647,0.6953125,10,1.0
+explanation_aligned_reuse,1000,0.1,Oracle scale CP,Validation-gated EC-NCS,RareCoverageError,0.4304615831030235,0.001953125,10,0.2578125
+explanation_aligned_reuse,1000,0.1,Oracle scale CP,Validation-gated EC-NCS,WorstMechanismCoverageError,0.428337487308029,0.001953125,10,0.2578125
+explanation_aligned_reuse,1000,0.1,Oracle scale CP,Validation-gated EC-NCS,RareWinkler,44.468783944250106,0.001953125,10,0.2578125
+explanation_aligned_reuse,1000,0.1,Oracle scale CP,Validation-gated EC-NCS,StableMeanWidth,2.1278815661065074,0.001953125,10,0.2578125
+explanation_aligned_reuse,1000,0.1,Standard CP,Validation-gated EC-NCS,RareCoverageError,-0.1279940936434003,0.125,10,1.0
+explanation_aligned_reuse,1000,0.1,Standard CP,Validation-gated EC-NCS,WorstMechanismCoverageError,-0.1279940936434003,0.125,10,1.0
+explanation_aligned_reuse,1000,0.1,Standard CP,Validation-gated EC-NCS,RareWinkler,-15.612862214457653,0.125,10,1.0
+explanation_aligned_reuse,1000,0.1,Standard CP,Validation-gated EC-NCS,StableMeanWidth,-0.6010510067724106,0.125,10,1.0
+explanation_aligned_reuse,1000,0.1,Validation-gated constant explanations,Validation-gated EC-NCS,RareCoverageError,-0.1279940936434003,0.125,10,1.0
+explanation_aligned_reuse,1000,0.1,Validation-gated constant explanations,Validation-gated EC-NCS,WorstMechanismCoverageError,-0.1279940936434003,0.125,10,1.0
+explanation_aligned_reuse,1000,0.1,Validation-gated constant explanations,Validation-gated EC-NCS,RareWinkler,-15.612862214457653,0.125,10,1.0
+explanation_aligned_reuse,1000,0.1,Validation-gated constant explanations,Validation-gated EC-NCS,StableMeanWidth,-0.6010510067724106,0.125,10,1.0
+explanation_aligned_reuse,1000,0.1,Validation-gated shuffled explanations,Validation-gated EC-NCS,RareCoverageError,-0.1278317559810626,0.125,10,1.0
+explanation_aligned_reuse,1000,0.1,Validation-gated shuffled explanations,Validation-gated EC-NCS,WorstMechanismCoverageError,-0.1278317559810626,0.125,10,1.0
+explanation_aligned_reuse,1000,0.1,Validation-gated shuffled explanations,Validation-gated EC-NCS,RareWinkler,-15.55703179452465,0.125,10,1.0
+explanation_aligned_reuse,1000,0.1,Validation-gated shuffled explanations,Validation-gated EC-NCS,StableMeanWidth,-0.6172868979715173,0.0625,10,1.0
+model_reuse,1000,0.05,CQR-ExtraTrees,Validation-gated EC-NCS,RareCoverageError,0.15078536555475824,0.001953125,10,0.2578125
+model_reuse,1000,0.05,CQR-ExtraTrees,Validation-gated EC-NCS,WorstMechanismCoverageError,0.15078536555475824,0.001953125,10,0.2578125
+model_reuse,1000,0.05,CQR-ExtraTrees,Validation-gated EC-NCS,RareWinkler,12.018331342437357,0.013671875,10,1.0
+model_reuse,1000,0.05,CQR-ExtraTrees,Validation-gated EC-NCS,StableMeanWidth,-2.006434850986015,0.001953125,10,0.2578125
+model_reuse,1000,0.05,CQR-GBM,Validation-gated EC-NCS,RareCoverageError,0.21462960067273787,0.001953125,10,0.2578125
+model_reuse,1000,0.05,CQR-GBM,Validation-gated EC-NCS,WorstMechanismCoverageError,0.21462960067273787,0.001953125,10,0.2578125
+model_reuse,1000,0.05,CQR-GBM,Validation-gated EC-NCS,RareWinkler,16.04700238094822,0.005859375,10,0.439453125
+model_reuse,1000,0.05,CQR-GBM,Validation-gated EC-NCS,StableMeanWidth,-3.6991204060556866,0.001953125,10,0.2578125
+model_reuse,1000,0.05,CQR-GBM interactions,Validation-gated EC-NCS,RareCoverageError,0.2787105081834639,0.001953125,10,0.2578125
+model_reuse,1000,0.05,CQR-GBM interactions,Validation-gated EC-NCS,WorstMechanismCoverageError,0.2787105081834639,0.001953125,10,0.2578125
+model_reuse,1000,0.05,CQR-GBM interactions,Validation-gated EC-NCS,RareWinkler,21.74761616660043,0.001953125,10,0.2578125
+model_reuse,1000,0.05,CQR-GBM interactions,Validation-gated EC-NCS,StableMeanWidth,-3.1757780764377364,0.001953125,10,0.2578125
+model_reuse,1000,0.05,CQR-RF,Validation-gated EC-NCS,RareCoverageError,0.17997897246835431,0.001953125,10,0.2578125
+model_reuse,1000,0.05,CQR-RF,Validation-gated EC-NCS,WorstMechanismCoverageError,0.17997897246835431,0.001953125,10,0.2578125
+model_reuse,1000,0.05,CQR-RF,Validation-gated EC-NCS,RareWinkler,16.109284484523226,0.00390625,10,0.3671875
+model_reuse,1000,0.05,CQR-RF,Validation-gated EC-NCS,StableMeanWidth,-1.966882304235785,0.001953125,10,0.2578125
+model_reuse,1000,0.05,EC-NCS candidate (ungated),Validation-gated EC-NCS,RareCoverageError,0.07960297806920949,0.03125,10,1.0
+model_reuse,1000,0.05,EC-NCS candidate (ungated),Validation-gated EC-NCS,WorstMechanismCoverageError,0.07960297806920949,0.03125,10,1.0
+model_reuse,1000,0.05,EC-NCS candidate (ungated),Validation-gated EC-NCS,RareWinkler,9.06810978569611,0.03125,10,1.0
+model_reuse,1000,0.05,EC-NCS candidate (ungated),Validation-gated EC-NCS,StableMeanWidth,-0.003537787912206003,0.6875,10,1.0
+model_reuse,1000,0.05,OOF Normalized CP,Validation-gated EC-NCS,RareCoverageError,-0.02292417580697802,0.6953125,10,1.0
+model_reuse,1000,0.05,OOF Normalized CP,Validation-gated EC-NCS,WorstMechanismCoverageError,-0.02292417580697802,0.6953125,10,1.0
+model_reuse,1000,0.05,OOF Normalized CP,Validation-gated EC-NCS,RareWinkler,-2.131948841794049,0.625,10,1.0
+model_reuse,1000,0.05,OOF Normalized CP,Validation-gated EC-NCS,StableMeanWidth,-0.0504184332914269,0.048828125,10,1.0
+model_reuse,1000,0.05,Oracle scale CP,Validation-gated EC-NCS,RareCoverageError,0.5041287761506994,0.001953125,10,0.2578125
+model_reuse,1000,0.05,Oracle scale CP,Validation-gated EC-NCS,WorstMechanismCoverageError,0.5035204536845813,0.001953125,10,0.2578125
+model_reuse,1000,0.05,Oracle scale CP,Validation-gated EC-NCS,RareWinkler,41.43062951293028,0.001953125,10,0.2578125
+model_reuse,1000,0.05,Oracle scale CP,Validation-gated EC-NCS,StableMeanWidth,0.8223379297223182,0.001953125,10,0.2578125
+model_reuse,1000,0.05,Standard CP,Validation-gated EC-NCS,RareCoverageError,-0.0548274774987784,0.125,10,1.0
+model_reuse,1000,0.05,Standard CP,Validation-gated EC-NCS,WorstMechanismCoverageError,-0.0548274774987784,0.125,10,1.0
+model_reuse,1000,0.05,Standard CP,Validation-gated EC-NCS,RareWinkler,-5.9911836069501065,0.125,10,1.0
+model_reuse,1000,0.05,Standard CP,Validation-gated EC-NCS,StableMeanWidth,-0.05121601570374743,0.25,10,1.0
+model_reuse,1000,0.05,Validation-gated constant explanations,Validation-gated EC-NCS,RareCoverageError,-0.0548274774987784,0.125,10,1.0
+model_reuse,1000,0.05,Validation-gated constant explanations,Validation-gated EC-NCS,WorstMechanismCoverageError,-0.0548274774987784,0.125,10,1.0
+model_reuse,1000,0.05,Validation-gated constant explanations,Validation-gated EC-NCS,RareWinkler,-5.9911836069501065,0.125,10,1.0
+model_reuse,1000,0.05,Validation-gated constant explanations,Validation-gated EC-NCS,StableMeanWidth,-0.05121601570374743,0.25,10,1.0
+model_reuse,1000,0.05,Validation-gated shuffled explanations,Validation-gated EC-NCS,RareCoverageError,-0.0548274774987784,0.125,10,1.0
+model_reuse,1000,0.05,Validation-gated shuffled explanations,Validation-gated EC-NCS,WorstMechanismCoverageError,-0.0548274774987784,0.125,10,1.0
+model_reuse,1000,0.05,Validation-gated shuffled explanations,Validation-gated EC-NCS,RareWinkler,-5.9911836069501065,0.125,10,1.0
+model_reuse,1000,0.05,Validation-gated shuffled explanations,Validation-gated EC-NCS,StableMeanWidth,-0.05121601570374743,0.25,10,1.0
+sample_size,5000,0.05,CQR-ExtraTrees,Validation-gated EC-NCS,RareCoverageError,0.2238134400322866,0.00390625,10,0.3671875
+sample_size,5000,0.05,CQR-ExtraTrees,Validation-gated EC-NCS,WorstMechanismCoverageError,0.2238134400322866,0.00390625,10,0.3671875
+sample_size,5000,0.05,CQR-ExtraTrees,Validation-gated EC-NCS,RareWinkler,22.467857596040183,0.00390625,10,0.3671875
+sample_size,5000,0.05,CQR-ExtraTrees,Validation-gated EC-NCS,StableMeanWidth,-0.535583323956893,0.001953125,10,0.2578125
+sample_size,5000,0.05,CQR-GBM,Validation-gated EC-NCS,RareCoverageError,0.25229134730279357,0.00390625,10,0.3671875
+sample_size,5000,0.05,CQR-GBM,Validation-gated EC-NCS,WorstMechanismCoverageError,0.25229134730279357,0.00390625,10,0.3671875
+sample_size,5000,0.05,CQR-GBM,Validation-gated EC-NCS,RareWinkler,23.85237732425947,0.00390625,10,0.3671875
+sample_size,5000,0.05,CQR-GBM,Validation-gated EC-NCS,StableMeanWidth,-1.2710568773737259,0.001953125,10,0.2578125
+sample_size,5000,0.05,CQR-GBM interactions,Validation-gated EC-NCS,RareCoverageError,0.311208428537909,0.001953125,10,0.2578125
+sample_size,5000,0.05,CQR-GBM interactions,Validation-gated EC-NCS,WorstMechanismCoverageError,0.311208428537909,0.001953125,10,0.2578125
+sample_size,5000,0.05,CQR-GBM interactions,Validation-gated EC-NCS,RareWinkler,28.727355461644446,0.00390625,10,0.3671875
+sample_size,5000,0.05,CQR-GBM interactions,Validation-gated EC-NCS,StableMeanWidth,-0.6232370891196415,0.001953125,10,0.2578125
+sample_size,5000,0.05,CQR-Neural,Validation-gated EC-NCS,RareCoverageError,0.20141122816266127,0.00390625,10,0.3671875
+sample_size,5000,0.05,CQR-Neural,Validation-gated EC-NCS,WorstMechanismCoverageError,0.20141122816266127,0.00390625,10,0.3671875
+sample_size,5000,0.05,CQR-Neural,Validation-gated EC-NCS,RareWinkler,20.493223083739803,0.00390625,10,0.3671875
+sample_size,5000,0.05,CQR-Neural,Validation-gated EC-NCS,StableMeanWidth,-1.8879069160830753,0.001953125,10,0.2578125
+sample_size,5000,0.05,CQR-RF,Validation-gated EC-NCS,RareCoverageError,0.23647534805965525,0.00390625,10,0.3671875
+sample_size,5000,0.05,CQR-RF,Validation-gated EC-NCS,WorstMechanismCoverageError,0.23647534805965525,0.00390625,10,0.3671875
+sample_size,5000,0.05,CQR-RF,Validation-gated EC-NCS,RareWinkler,23.852611410071855,0.00390625,10,0.3671875
+sample_size,5000,0.05,CQR-RF,Validation-gated EC-NCS,StableMeanWidth,-0.2075146711662284,0.048828125,10,1.0
+sample_size,5000,0.05,EC-NCS candidate (ungated),Validation-gated EC-NCS,RareCoverageError,0.25948436529950536,0.00390625,10,0.3671875
+sample_size,5000,0.05,EC-NCS candidate (ungated),Validation-gated EC-NCS,WorstMechanismCoverageError,0.25948436529950536,0.00390625,10,0.3671875
+sample_size,5000,0.05,EC-NCS candidate (ungated),Validation-gated EC-NCS,RareWinkler,25.263348262834896,0.00390625,10,0.3671875
+sample_size,5000,0.05,EC-NCS candidate (ungated),Validation-gated EC-NCS,StableMeanWidth,-0.3334065716771005,0.00390625,10,0.3671875
+sample_size,5000,0.05,OOF Normalized CP,Validation-gated EC-NCS,RareCoverageError,0.08822645754330989,0.083984375,10,1.0
+sample_size,5000,0.05,OOF Normalized CP,Validation-gated EC-NCS,WorstMechanismCoverageError,0.08822645754330989,0.083984375,10,1.0
+sample_size,5000,0.05,OOF Normalized CP,Validation-gated EC-NCS,RareWinkler,9.658623763906963,0.083984375,10,1.0
+sample_size,5000,0.05,OOF Normalized CP,Validation-gated EC-NCS,StableMeanWidth,0.1507847997495692,0.037109375,10,1.0
+sample_size,5000,0.05,Oracle scale CP,Validation-gated EC-NCS,RareCoverageError,0.5092745980295409,0.001953125,10,0.2578125
+sample_size,5000,0.05,Oracle scale CP,Validation-gated EC-NCS,WorstMechanismCoverageError,0.5092049180161698,0.001953125,10,0.2578125
+sample_size,5000,0.05,Oracle scale CP,Validation-gated EC-NCS,RareWinkler,42.964722600441156,0.001953125,10,0.2578125
+sample_size,5000,0.05,Oracle scale CP,Validation-gated EC-NCS,StableMeanWidth,0.8501447845089661,0.001953125,10,0.2578125
+sample_size,5000,0.05,Standard CP,Validation-gated EC-NCS,RareCoverageError,-0.02962962962962965,1.0,10,1.0
+sample_size,5000,0.05,Standard CP,Validation-gated EC-NCS,WorstMechanismCoverageError,-0.02962962962962965,1.0,10,1.0
+sample_size,5000,0.05,Standard CP,Validation-gated EC-NCS,RareWinkler,-2.9171180071544582,1.0,10,1.0
+sample_size,5000,0.05,Standard CP,Validation-gated EC-NCS,StableMeanWidth,0.023134884470096394,1.0,10,1.0
+sample_size,5000,0.05,Validation-gated constant explanations,Validation-gated EC-NCS,RareCoverageError,-0.02962962962962965,1.0,10,1.0
+sample_size,5000,0.05,Validation-gated constant explanations,Validation-gated EC-NCS,WorstMechanismCoverageError,-0.02962962962962965,1.0,10,1.0
+sample_size,5000,0.05,Validation-gated constant explanations,Validation-gated EC-NCS,RareWinkler,-2.9171180071544582,1.0,10,1.0
+sample_size,5000,0.05,Validation-gated constant explanations,Validation-gated EC-NCS,StableMeanWidth,0.023134884470096394,1.0,10,1.0
+sample_size,5000,0.05,Validation-gated shuffled explanations,Validation-gated EC-NCS,RareCoverageError,-0.02962962962962965,1.0,10,1.0
+sample_size,5000,0.05,Validation-gated shuffled explanations,Validation-gated EC-NCS,WorstMechanismCoverageError,-0.02962962962962965,1.0,10,1.0
+sample_size,5000,0.05,Validation-gated shuffled explanations,Validation-gated EC-NCS,RareWinkler,-2.9171180071544582,1.0,10,1.0
+sample_size,5000,0.05,Validation-gated shuffled explanations,Validation-gated EC-NCS,StableMeanWidth,0.023134884470096394,1.0,10,1.0

@@ -1,0 +1,4 @@
+Experiment,TrainN,RareProbability,Seeds,GateAcceptanceRate,MeanInnerRelativeGain,MeanInnerStandardCoverage,MeanInnerCandidateCoverage
+explanation_aligned_reuse,1000,0.1,10,0.4,0.1997020909515724,0.9008,0.892
+model_reuse,1000,0.05,10,0.4,0.060714079659754464,0.9032,0.8932
+sample_size,5000,0.05,10,0.1,0.2980449697828274,0.898,0.8731199999999999
