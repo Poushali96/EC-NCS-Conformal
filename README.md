@@ -40,41 +40,41 @@ The study examines both improvements and failure cases, including situations whe
 
 ### Explanation representation
 
-For a fitted predictor \(\widehat f\), let \(E_j(x;\widehat f)\) be the attribution assigned to feature \(j\).
+For a fitted predictor $\widehat f$, let $E_j(x;\widehat f)$ be the attribution assigned to feature $j$.
 
 The total explanation magnitude is
 
-\[
+$$
 \Phi(x)=\sum_{j=1}^{p}|E_j(x;\widehat f)|.
-\]
+$$
 
 We map this quantity to a training-derived rank:
 
-\[
+$$
 Z(x)=F_{\Phi,\mathrm{tr}}(\Phi(x)).
-\]
+$$
 
-This rank is used to learn a positive scale \(s(Z(x))\) from training data.
+This rank is used to learn a positive scale $s(Z(x))$ from training data.
 
 ### Normalized conformal score
 
 The EC-NCS nonconformity score is
 
-\[
+$$
 A_i=\frac{|Y_i-\widehat f(X_i)|}{s(Z(X_i))}.
-\]
+$$
 
 After calibration, the prediction interval for a new input \(x\) is
 
-\[
+$$
 \widehat C_\alpha(x)=
 \left[
 \widehat f(x)-\widehat q\,s(Z(x)),
 \widehat f(x)+\widehat q\,s(Z(x))
 \right].
-\]
+$$
 
-Here, \(\widehat q\) is the conformal quantile calculated from a separate calibration sample.
+Here, $\widehat q$ is the conformal quantile calculated from a separate calibration sample.
 
 ### Validation-based activation
 
@@ -84,9 +84,9 @@ The implemented gate requires a minimum 1% improvement in the validation objecti
 
 When these conditions are not satisfied, the procedure selects
 
-\[
+$$
 s(Z)\equiv 1,
-\]
+$$
 
 which returns the Standard CP interval.
 
@@ -143,7 +143,7 @@ Some earlier experiments use weighted and stratified EC-NCS variants. These shou
 
 The experiments show that the usefulness of explanation-based scaling depends on whether the explanation representation captures variation in prediction errors.
 
-In the independent CICV5G evaluation, validation-gated EC-NCS reduced Winkler loss by **13.2%** relative to Standard CP for the Random Forest predictor. This difference remained statistically significant after Holm correction (\(p_{\mathrm{Holm}}=0.001751\)).
+In the independent CICV5G evaluation, validation-gated EC-NCS reduced Winkler loss by **13.2%** relative to Standard CP for the Random Forest predictor. This difference remained statistically significant after Holm correction $(p_{\mathrm{Holm}}=0.001751)$.
 
 The corresponding improvement was not statistically significant for the MLP predictor. Conformalized quantile regression also achieved better overall interval quality in the independent evaluation.
 
