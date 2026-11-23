@@ -1,0 +1,31 @@
+done nofreq 100
+done nofreq 33
+done nofreq 10
+done only 33
+done only 10
+             mean                           ...    std                              
+method        CQR EC-NCS OOF normalized CP  ... EC-NCS OOF normalized CP Standard CP
+case   n                                    ...                                     
+nofreq 10   26.87  38.68             34.86  ...    NaN               NaN         NaN
+       100  42.79  41.48             52.14  ...    NaN               NaN         NaN
+       33   27.29  37.89             36.19  ...    NaN               NaN         NaN
+only   10   38.09  41.92             50.92  ...    NaN               NaN         NaN
+       33   44.56  44.32             55.18  ...    NaN               NaN         NaN
+
+[5 rows x 8 columns]
+nofreq 10 EC<Stan 95% EC<OOF  45% EC<CQR 20%
+nofreq 100 EC<Stan 85% EC<OOF  80% EC<CQR 45%
+nofreq 33 EC<Stan 90% EC<OOF  45% EC<CQR 20%
+only 10 EC<Stan 65% EC<OOF  75% EC<CQR 40%
+only 33 EC<Stan 70% EC<OOF  80% EC<CQR 45%
+admitted % at 2% late
+nofreq 100 31.0 Standard:  36.5  OOF norm:   3.7  EC-NCS:  68.4  CQR:   0.0
+nofreq 100 35.0 Standard:  52.7  OOF norm:   0.0  EC-NCS:  76.3  CQR:   0.0
+nofreq 33 31.0 Standard:  36.5  OOF norm:  75.7  EC-NCS:  75.4  CQR:  76.3
+nofreq 33 35.0 Standard:  52.7  OOF norm:  82.0  EC-NCS:  81.7  CQR:  85.9
+nofreq 10 31.0 Standard:  36.5  OOF norm:  74.9  EC-NCS:  73.9  CQR:  76.0
+nofreq 10 35.0 Standard:  52.7  OOF norm:  81.2  EC-NCS:  81.3  CQR:  84.8
+only 33 31.0 Standard:  36.5  OOF norm:   0.0  EC-NCS:  54.1  CQR:   0.0
+only 33 35.0 Standard:  52.7  OOF norm:   0.0  EC-NCS:  59.5  CQR:   0.0
+only 10 31.0 Standard:  36.5  OOF norm:  29.0  EC-NCS:  71.4  CQR:   0.0
+only 10 35.0 Standard:  52.7  OOF norm:  42.8  EC-NCS:  79.4  CQR:   0.0

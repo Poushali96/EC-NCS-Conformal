@@ -260,3 +260,7 @@ The citation should be updated when the manuscript receives a permanent publicat
 This repository is distributed under the BSD 3-Clause license. See `LICENSE` for details.
 
 
+
+## TMLCN revision code
+
+The code and results for all analyses added in the revised manuscript (reserved re-runs, delay-budget admission, signal ablations, few-drive tests, and the external replication on NordicDat) are in [`tmlcn_revision/`](tmlcn_revision/). See [`tmlcn_revision/README.md`](tmlcn_revision/README.md) for data sources, run order, and a map from each result in the paper to its script.

@@ -1,0 +1,801 @@
+n,fold,draw,run,method,cov,wink
+2,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,Standard CP,0.8607979184735473,27.895306857123547
+2,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,Standard CP,0.9109805693628559,24.01383495056982
+2,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,Standard CP,0.7171372930866602,45.02422126348918
+2,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,Standard CP,0.3790959100693614,109.4482815788879
+2,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.8746747614917606,28.671862985738482
+2,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,OOF normalized CP,0.9159511974694984,25.109818178147304
+2,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.7636319376825705,44.06898548480307
+2,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.39308777804353023,108.37510177370068
+2,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,EC-NCS,0.8599306157849089,27.833054246141874
+2,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,EC-NCS,0.9136918210573881,24.003961850362145
+2,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,EC-NCS,0.6719814995131451,46.12019061237547
+2,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,EC-NCS,0.38615163836402777,108.30173724678411
+2,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,CQR,0.632263660017346,43.894952971745646
+2,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,CQR,0.9213737008585631,26.46218811889892
+2,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,CQR,0.8203505355404089,37.269756550508745
+2,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,CQR,0.4158096149246592,119.9579259771061
+2,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,Standard CP,0.8607979184735473,27.895306857123547
+2,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,Standard CP,0.9109805693628559,24.01383495056982
+2,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,Standard CP,0.7171372930866602,45.02422126348918
+2,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,Standard CP,0.3790959100693614,109.4482815788879
+2,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.6869037294015612,33.24748287838447
+2,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,OOF normalized CP,0.9765024853140534,31.623042850320715
+2,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.6770934761441091,47.21108668329481
+2,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.7469504903133222,64.53577816083491
+2,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,EC-NCS,0.7974848222029488,28.889546814462882
+2,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,EC-NCS,0.8843199276999548,23.589369467263854
+2,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,EC-NCS,0.6534810126582279,44.40436246685526
+2,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,EC-NCS,0.6369289643625927,76.73239789692583
+2,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,CQR,0.9444926279271466,27.539905380613728
+2,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,CQR,0.9932218707636692,39.17437677737556
+2,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,CQR,0.8202288218111002,32.223101500364095
+2,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,CQR,0.9479789524037312,49.54612976649941
+2,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,Standard CP,0.8607979184735473,27.895306857123547
+2,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,Standard CP,0.9109805693628559,24.01383495056982
+2,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,Standard CP,0.7171372930866602,45.02422126348918
+2,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,Standard CP,0.3790959100693614,109.4482815788879
+2,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.7523850823937555,30.789306242632215
+2,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,OOF normalized CP,0.894713059195662,24.852991769608174
+2,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.8386075949367089,40.592676013503905
+2,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.721478115283425,77.33520202233044
+2,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,EC-NCS,0.7562879444926279,30.443996057636006
+2,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,EC-NCS,0.930411206507004,23.978095378409243
+2,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,EC-NCS,0.6669912366114897,45.22713829917909
+2,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,EC-NCS,0.5013154747668022,93.60761316460774
+2,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,CQR,0.9388551604509974,27.434484837589142
+2,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,CQR,0.9887031179394488,22.84686168520268
+2,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,CQR,0.9662852969814996,32.60962315870132
+2,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,CQR,0.6034441521167185,75.29196354166646
+2,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,Standard CP,0.9484848484848485,18.083007358746944
+2,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,Standard CP,0.5769796518754596,70.6189597755952
+2,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,Standard CP,0.9387144992526159,38.187825552438674
+2,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,Standard CP,0.8554756195043964,91.49602848350304
+2,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.9627705627705627,20.180446135946706
+2,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.6128953174797744,75.67435057530047
+2,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.9378840724132204,38.412072259890955
+2,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.9569944044764188,42.52261567692596
+2,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,EC-NCS,0.9177489177489178,16.70267904920239
+2,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,EC-NCS,0.6077469968129443,67.43607813049272
+2,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,EC-NCS,0.9348945357913968,37.790295736824305
+2,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,EC-NCS,0.8482813749000799,90.22042394180934
+2,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,CQR,0.9662337662337662,12.724715754566919
+2,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,CQR,0.44140720764893354,107.6997224484091
+2,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,CQR,0.8425510712506228,34.30018427101944
+2,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,CQR,0.9677058353317346,23.44206994043043
+2,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,Standard CP,0.9484848484848485,18.083007358746944
+2,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,Standard CP,0.5769796518754596,70.6189597755952
+2,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,Standard CP,0.9387144992526159,38.187825552438674
+2,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,Standard CP,0.8554756195043964,91.49602848350304
+2,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.9705627705627705,18.33964105097916
+2,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.6365530767344938,66.85428071224817
+2,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.9455239993356586,38.79655185669296
+2,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.8700239808153477,90.44486422029416
+2,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,EC-NCS,0.8857142857142857,16.605794742765966
+2,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,EC-NCS,0.6443981367982349,64.4062393527058
+2,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,EC-NCS,0.9541604384653712,39.19488431908948
+2,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,EC-NCS,0.874660271782574,90.75919349894279
+2,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,CQR,0.9865800865800866,15.654638388325392
+2,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,CQR,0.4953419955871537,88.57446483025929
+2,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,CQR,0.835409400431822,35.340247828597086
+2,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,CQR,0.990087929656275,25.610013220489368
+2,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,Standard CP,0.9484848484848485,18.083007358746944
+2,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,Standard CP,0.5769796518754596,70.6189597755952
+2,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,Standard CP,0.9387144992526159,38.187825552438674
+2,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,Standard CP,0.8554756195043964,91.49602848350304
+2,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.758008658008658,18.07140042405273
+2,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.8575631282177004,53.86849565449393
+2,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.9211094502574323,37.49668848433938
+2,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.8430055955235811,90.08710975056368
+2,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,EC-NCS,0.8324675324675325,16.39907519256675
+2,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,EC-NCS,0.7624417749448394,55.1847300876951
+2,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,EC-NCS,0.8850689254276698,36.044271566341656
+2,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,EC-NCS,0.7841726618705036,81.44319860929754
+2,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,CQR,0.9904761904761905,16.611801868786554
+2,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,CQR,0.972664868840402,51.60949816271946
+2,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,CQR,0.9732602557714666,35.45635457517784
+2,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,CQR,0.9926458832933653,26.901700143277612
+2,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,Standard CP,0.991391028545537,37.17692320803674
+2,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,Standard CP,0.9788519637462235,49.5834212059392
+2,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,Standard CP,0.9867436057392389,46.72061302284731
+2,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,Standard CP,0.9926211100417067,39.94690778175127
+2,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,OOF normalized CP,0.9918441323062981,52.51187397167439
+2,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.9938415059260981,65.28951189066413
+2,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.9893948845913911,59.87637418863858
+2,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.9964709656721207,42.42103032700591
+2,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,EC-NCS,0.9714544630720435,21.183233497496456
+2,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,EC-NCS,0.9704857076458285,42.216790287091605
+2,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,EC-NCS,0.9865876481597006,37.543889710008195
+2,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,EC-NCS,0.9906961822264998,29.6683642931552
+2,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,CQR,0.9986406887177164,37.31550727639596
+2,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,CQR,0.9923309319079712,46.987612959608164
+2,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,CQR,0.9942295695570805,47.2254056211628
+2,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,CQR,0.9975938402309913,36.83969143257168
+2,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,Standard CP,0.991391028545537,37.17692320803674
+2,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,Standard CP,0.9788519637462235,49.5834212059392
+2,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,Standard CP,0.9867436057392389,46.72061302284731
+2,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,Standard CP,0.9926211100417067,39.94690778175127
+2,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,OOF normalized CP,0.8695061169007703,21.513946706502992
+2,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.9895421798745062,88.10953225013603
+2,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.9812850904553961,41.328067802450896
+2,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.9854026307346808,30.899531123159548
+2,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,EC-NCS,0.9669234254644313,22.892639948311082
+2,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,EC-NCS,0.978387171740646,47.96808808683706
+2,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,EC-NCS,0.9875233936369308,44.897109686756046
+2,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,EC-NCS,0.9926211100417067,37.94327252949255
+2,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,CQR,0.9252378794743996,17.121532548628053
+2,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,CQR,0.4607250755287009,83.60002536167781
+2,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,CQR,0.44946974422956953,45.279396622945654
+2,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,CQR,0.8922040423484119,18.56774619512527
+2,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,Standard CP,0.991391028545537,37.17692320803674
+2,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,Standard CP,0.9788519637462235,49.5834212059392
+2,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,Standard CP,0.9867436057392389,46.72061302284731
+2,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,Standard CP,0.9926211100417067,39.94690778175127
+2,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,OOF normalized CP,0.9918441323062981,38.6297563500438
+2,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.980246339762956,51.28959008297232
+2,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.9864316905801622,48.74852887070495
+2,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.993423163298043,41.69715963245389
+2,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,EC-NCS,0.9895786135024921,26.344758218246955
+2,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,EC-NCS,0.9790843597490123,49.892206202264916
+2,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,EC-NCS,0.9865876481597006,43.11781054608082
+2,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,EC-NCS,0.992139878087905,36.1726892456586
+2,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,CQR,0.9986406887177164,33.56737185468644
+2,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,CQR,0.9919823379037881,43.48768415990789
+2,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,CQR,0.9940736119775421,43.546581629745425
+2,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,CQR,0.9977542508822586,37.10897333706672
+2,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,Standard CP,0.907679033649698,14.135005977638459
+2,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,Standard CP,0.8990549828178694,20.48602650365739
+2,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,Standard CP,0.6523867809057528,40.47644427416353
+2,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,Standard CP,0.3744114877589454,115.65882981677298
+2,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.954702329594478,22.475099744759607
+2,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.8865979381443299,19.40551158255311
+2,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.7888616891064871,33.26565659236037
+2,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.3751177024482109,112.56625782609672
+2,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,EC-NCS,0.9176013805004314,15.12192843767077
+2,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,EC-NCS,0.8823024054982818,20.173570160245553
+2,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,EC-NCS,0.6799265605875153,39.11864397548174
+2,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,EC-NCS,0.4190207156308851,108.61981557005662
+2,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,CQR,0.9089732528041415,15.80691624959433
+2,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,CQR,0.915807560137457,13.581018135397173
+2,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,CQR,0.8111383108935128,22.497089563538665
+2,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,CQR,0.4213747645951036,110.86240349453868
+2,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,Standard CP,0.907679033649698,14.135005977638459
+2,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,Standard CP,0.8990549828178694,20.48602650365739
+2,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,Standard CP,0.6523867809057528,40.47644427416353
+2,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,Standard CP,0.3744114877589454,115.65882981677298
+2,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.9283865401207938,15.026230764637676
+2,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.9192439862542955,20.883028811769
+2,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.7057527539779682,41.19084522352263
+2,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.3502824858757062,119.82803915716039
+2,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,EC-NCS,0.8805004314063848,14.530657517607562
+2,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,EC-NCS,0.9286941580756014,20.49209736119366
+2,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,EC-NCS,0.5774785801713587,41.63822476739973
+2,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,EC-NCS,0.516831450094162,95.67615312847737
+2,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,CQR,0.9473684210526315,14.483777794501
+2,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,CQR,0.9579037800687286,14.872670903352553
+2,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,CQR,0.6951040391676867,34.479999311305775
+2,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,CQR,0.2129237288135593,173.57401085018122
+2,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,Standard CP,0.907679033649698,14.135005977638459
+2,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,Standard CP,0.8990549828178694,20.48602650365739
+2,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,Standard CP,0.6523867809057528,40.47644427416353
+2,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,Standard CP,0.3744114877589454,115.65882981677298
+2,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.9525452976704055,24.563430243885907
+2,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.8676975945017182,24.890393786185847
+2,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.7795593635250918,33.04724902852192
+2,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.4628060263653484,113.25948006920815
+2,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,EC-NCS,0.9219154443485763,15.025740548019535
+2,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,EC-NCS,0.9020618556701031,20.51019020048081
+2,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,EC-NCS,0.697796817625459,37.32524276409574
+2,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,EC-NCS,0.4327919020715631,106.58646702382865
+2,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,CQR,0.9227782571182054,15.210808870727659
+2,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,CQR,0.9308419243986255,12.932258045733274
+2,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,CQR,0.8210526315789474,21.44879410626631
+2,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,CQR,0.3985404896421846,117.12796769265296
+2,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,Standard CP,0.9906583629893239,31.95076943285182
+2,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,Standard CP,0.9959641255605381,25.319279251875145
+2,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,Standard CP,0.9667660208643816,52.228014257299016
+2,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,Standard CP,0.9874668239457387,31.188689346647752
+2,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.9599644128113879,27.78058064944747
+2,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.9923766816143498,25.258222535973825
+2,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.9484351713859911,45.43377587807936
+2,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.9849601887348864,30.19969018149911
+2,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,EC-NCS,0.9857651245551602,29.20060420151291
+2,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,EC-NCS,0.9941704035874439,22.484719597546086
+2,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,EC-NCS,0.969150521609538,47.76670042852742
+2,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,EC-NCS,0.9880566204659392,28.11063310154707
+2,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,CQR,0.7580071174377224,43.53897132293071
+2,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,CQR,0.915695067264574,25.084737381483297
+2,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,CQR,0.9554396423248882,30.7594220232055
+2,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,CQR,0.8180477735181363,27.574378124314997
+2,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,Standard CP,0.9906583629893239,31.95076943285182
+2,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,Standard CP,0.9959641255605381,25.319279251875145
+2,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,Standard CP,0.9667660208643816,52.228014257299016
+2,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,Standard CP,0.9874668239457387,31.188689346647752
+2,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.7290925266903915,28.036251611672522
+2,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.7645739910313901,17.528526082425326
+2,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.9321907600596125,45.767033448437275
+2,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.93335299321734,22.58445091311992
+2,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,EC-NCS,0.9261565836298933,23.918185748984847
+2,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,EC-NCS,0.9511210762331839,15.710222985343234
+2,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,EC-NCS,0.9484351713859911,40.84813405550964
+2,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,EC-NCS,0.9483928044824536,21.53995698346912
+2,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,CQR,0.9724199288256228,31.478070383965104
+2,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,CQR,0.9923766816143498,15.86437475984671
+2,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,CQR,0.9208643815201192,42.48751281660721
+2,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,CQR,0.9954290769684458,18.625788070150424
+2,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,Standard CP,0.9906583629893239,31.95076943285182
+2,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,Standard CP,0.9959641255605381,25.319279251875145
+2,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,Standard CP,0.9667660208643816,52.228014257299016
+2,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,Standard CP,0.9874668239457387,31.188689346647752
+2,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.9906583629893239,33.703424244772435
+2,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.9932735426008968,26.24234867809456
+2,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.9685543964232489,53.85990568644684
+2,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.991153052196992,31.157193774795523
+2,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,EC-NCS,0.958185053380783,24.674264003156424
+2,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,EC-NCS,0.9753363228699552,18.094630267194642
+2,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,EC-NCS,0.9567809239940388,43.02242719823177
+2,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,EC-NCS,0.9781775287525803,25.777450412311044
+2,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,CQR,0.994661921708185,33.356139616202114
+2,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,CQR,0.9995515695067264,25.764104186223662
+2,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,CQR,0.9929955290611028,44.08064561493313
+2,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,CQR,0.9985255086994986,28.300474929779014
+4,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,Standard CP,0.8607979184735473,27.895306857123547
+4,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,Standard CP,0.9109805693628559,24.01383495056982
+4,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,Standard CP,0.7171372930866602,45.02422126348918
+4,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,Standard CP,0.3790959100693614,109.4482815788879
+4,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.777103209019948,30.63144286830781
+4,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,OOF normalized CP,0.8386805241753276,27.5276731465923
+4,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.9886806231742941,56.59867750416803
+4,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.8665391054771586,58.833651281399845
+4,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,EC-NCS,0.8503902862098872,27.931374998594947
+4,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,EC-NCS,0.8852236782647989,23.113264129337434
+4,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,EC-NCS,0.7299172346640701,42.34412315313769
+4,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,EC-NCS,0.5845491509208324,80.49852532989394
+4,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,CQR,0.8321769297484822,27.587873606381034
+4,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,CQR,0.9602349751468595,20.078460832339005
+4,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,CQR,0.8069620253164557,64.3002174088036
+4,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,CQR,0.8847165749820617,49.31136694710955
+4,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,Standard CP,0.8607979184735473,27.895306857123547
+4,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,Standard CP,0.9109805693628559,24.01383495056982
+4,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,Standard CP,0.7171372930866602,45.02422126348918
+4,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,Standard CP,0.3790959100693614,109.4482815788879
+4,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.7844752818733738,29.92262902840008
+4,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,OOF normalized CP,0.9014911884319927,22.81376054236484
+4,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.8149951314508277,41.97313639287071
+4,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.6049988041138483,89.38946968467859
+4,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,EC-NCS,0.8291413703382481,28.333751634427646
+4,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,EC-NCS,0.9082693176683235,23.609526972231706
+4,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,EC-NCS,0.6848831548198637,45.03054088964748
+4,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,EC-NCS,0.4834967711073906,95.61015965453772
+4,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,CQR,0.9392888117953165,27.691691152204367
+4,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,CQR,0.9719837324898328,22.376190248651078
+4,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,CQR,0.943524829600779,33.09688392176072
+4,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,CQR,0.4907916766323846,100.06059885639817
+4,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,Standard CP,0.8607979184735473,27.895306857123547
+4,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,Standard CP,0.9109805693628559,24.01383495056982
+4,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,Standard CP,0.7171372930866602,45.02422126348918
+4,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,Standard CP,0.3790959100693614,109.4482815788879
+4,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.4562012142237641,41.07531358705591
+4,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,OOF normalized CP,0.9408043380027112,25.63851931418091
+4,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.8069620253164557,44.474782818465734
+4,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.5229610141114566,84.23867076778534
+4,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,EC-NCS,0.7914137033824805,29.334408798845704
+4,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,EC-NCS,0.9204699502937189,23.362031857262988
+4,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,EC-NCS,0.6942551119766309,43.55085419145976
+4,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,EC-NCS,0.5107629753647452,88.56173214423411
+4,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,CQR,0.8555941023417173,30.645678610017665
+4,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,CQR,0.9611387257117036,31.832712678317446
+4,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,CQR,0.8564995131450828,31.60689820193347
+4,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,CQR,0.9391293948816073,45.41213976489224
+4,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,Standard CP,0.9484848484848485,18.083007358746944
+4,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,Standard CP,0.5769796518754596,70.6189597755952
+4,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,Standard CP,0.9387144992526159,38.187825552438674
+4,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,Standard CP,0.8554756195043964,91.49602848350304
+4,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.7489177489177489,17.628547395848354
+4,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.9110075999019368,55.47123511351342
+4,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.8051818634778276,37.92157894651036
+4,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.7675459632294165,95.52842844362895
+4,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,EC-NCS,0.8770562770562771,16.091710314815906
+4,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,EC-NCS,0.7395194900710959,57.029014584684866
+4,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,EC-NCS,0.9275867796047168,36.43093493553249
+4,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,EC-NCS,0.8353317346123101,83.53231929706814
+4,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,CQR,0.9385281385281385,12.737101738007265
+4,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,CQR,0.937362098553567,45.31634225105818
+4,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,CQR,0.9096495598737752,32.55973635672389
+4,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,CQR,0.903277378097522,22.582888154942424
+4,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,Standard CP,0.9484848484848485,18.083007358746944
+4,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,Standard CP,0.5769796518754596,70.6189597755952
+4,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,Standard CP,0.9387144992526159,38.187825552438674
+4,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,Standard CP,0.8554756195043964,91.49602848350304
+4,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.6588744588744588,20.34327749604302
+4,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.25177739642069136,111.16499940258649
+4,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.9671150971599403,43.02143511903343
+4,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.6380495603517187,100.71283324480224
+4,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,EC-NCS,0.835930735930736,16.88082128748211
+4,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,EC-NCS,0.663152733513116,63.19861270259906
+4,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,EC-NCS,0.9564856336156785,39.57083339050587
+4,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,EC-NCS,0.8786570743405275,91.04503186324337
+4,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,CQR,0.9272727272727272,12.287644664272003
+4,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,CQR,0.42289776906104437,110.36770346195321
+4,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,CQR,0.8196312904833084,35.86559554010009
+4,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,CQR,0.9083932853717026,22.752649867426978
+4,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,Standard CP,0.9484848484848485,18.083007358746944
+4,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,Standard CP,0.5769796518754596,70.6189597755952
+4,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,Standard CP,0.9387144992526159,38.187825552438674
+4,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,Standard CP,0.8554756195043964,91.49602848350304
+4,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.9727272727272728,19.672627363997552
+4,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.6018632017651385,75.45262983487446
+4,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.9488457066932403,39.7259399491435
+4,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.9553956834532374,40.00865059814779
+4,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,EC-NCS,0.938961038961039,17.8700615657535
+4,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,EC-NCS,0.592179455748958,69.04077814506283
+4,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,EC-NCS,0.9413718651386813,38.831617976111126
+4,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,EC-NCS,0.8599520383693046,92.09056388887925
+4,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,CQR,0.9844155844155844,16.016987006166616
+4,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,CQR,0.4806325079676391,95.25680304905941
+4,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,CQR,0.7709682776947351,37.40371130168597
+4,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,CQR,0.9884892086330935,25.884616049204435
+4,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,Standard CP,0.991391028545537,37.17692320803674
+4,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,Standard CP,0.9788519637462235,49.5834212059392
+4,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,Standard CP,0.9867436057392389,46.72061302284731
+4,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,Standard CP,0.9926211100417067,39.94690778175127
+4,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,OOF normalized CP,0.9714544630720435,29.704690752349027
+4,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.9130838949570067,37.554392553052125
+4,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.9716157205240175,36.378273015880424
+4,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.9834777029194739,29.806184472472406
+4,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,EC-NCS,0.9850475758948799,23.416585245052374
+4,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,EC-NCS,0.9673483616081804,40.76386347031379
+4,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,EC-NCS,0.9859638178415471,35.82830944441008
+4,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,EC-NCS,0.9894128970163619,27.81487837271706
+4,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,CQR,0.8994109651110104,16.972915255930825
+4,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,CQR,0.8997211247966534,29.387388212145336
+4,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,CQR,0.36930754834684965,46.77573419928779
+4,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,CQR,0.8936477382098171,19.962896915045338
+4,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,Standard CP,0.991391028545537,37.17692320803674
+4,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,Standard CP,0.9788519637462235,49.5834212059392
+4,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,Standard CP,0.9867436057392389,46.72061302284731
+4,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,Standard CP,0.9926211100417067,39.94690778175127
+4,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,OOF normalized CP,0.9737199818758495,25.17689489118291
+4,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.9871020218452242,81.2586893262171
+4,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.9681846537741734,35.26117829827668
+4,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.8196984279756175,24.201408506401936
+4,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,EC-NCS,0.9759855006796556,22.27499681011677
+4,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,EC-NCS,0.9671159656053916,44.73593136535965
+4,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,EC-NCS,0.9789457267623206,32.942687590376046
+4,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,EC-NCS,0.971126082771896,25.01063611965837
+4,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,CQR,0.9139102854553692,17.085377695419464
+4,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,CQR,0.3403439460841274,62.18423192300537
+4,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,CQR,0.4505614472863381,36.230272157731584
+4,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,CQR,0.890279114533205,18.582613933646154
+4,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,Standard CP,0.991391028545537,37.17692320803674
+4,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,Standard CP,0.9788519637462235,49.5834212059392
+4,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,Standard CP,0.9867436057392389,46.72061302284731
+4,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,Standard CP,0.9926211100417067,39.94690778175127
+4,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,OOF normalized CP,0.8672405980969642,21.587839835773394
+4,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.9234255170811062,37.90294294579549
+4,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.9003431066749844,31.210408646937072
+4,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.8710298363811357,23.614154819504428
+4,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,EC-NCS,0.9347530584503851,18.964162042765548
+4,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,EC-NCS,0.9715314896583779,40.635102233984306
+4,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,EC-NCS,0.96756082345602,30.418583295281454
+4,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,EC-NCS,0.9571703561116458,22.962584664260852
+4,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,CQR,0.9420027186225646,17.406163033556656
+4,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,CQR,0.8947246107366953,30.05404434174491
+4,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,CQR,0.7946038677479725,28.836034769603028
+4,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,CQR,0.8878729547641964,22.369136392770663
+4,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,Standard CP,0.907679033649698,14.135005977638459
+4,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,Standard CP,0.8990549828178694,20.48602650365739
+4,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,Standard CP,0.6523867809057528,40.47644427416353
+4,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,Standard CP,0.3744114877589454,115.65882981677298
+4,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.899913718723037,14.306600243509498
+4,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.8307560137457045,21.324106808997684
+4,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.8320685434516524,31.383863039851207
+4,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.5115348399246704,99.5663831045819
+4,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,EC-NCS,0.8744607420189818,14.375966233783844
+4,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,EC-NCS,0.8900343642611683,19.91558560713346
+4,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,EC-NCS,0.7248470012239903,34.89632536085046
+4,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,EC-NCS,0.5790960451977402,88.72664535347273
+4,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,CQR,0.9810181190681622,14.827827252423806
+4,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,CQR,0.977233676975945,14.73560958986413
+4,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,CQR,0.9275397796817626,21.24680407049763
+4,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,CQR,0.4856403013182674,96.05232883815495
+4,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,Standard CP,0.907679033649698,14.135005977638459
+4,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,Standard CP,0.8990549828178694,20.48602650365739
+4,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,Standard CP,0.6523867809057528,40.47644427416353
+4,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,Standard CP,0.3744114877589454,115.65882981677298
+4,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.8843830888697153,16.015432715480056
+4,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.8857388316151202,19.49144899152997
+4,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.838188494492044,30.932811998004873
+4,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.8866525423728814,64.11804087170754
+4,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,EC-NCS,0.8774805867126834,14.086867469989413
+4,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,EC-NCS,0.9089347079037801,19.774713970491213
+4,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,EC-NCS,0.6756425948592412,36.148033551353464
+4,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,EC-NCS,0.6288841807909604,82.94807286336777
+4,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,CQR,0.7351164797238999,20.484738056977925
+4,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,CQR,0.9003436426116839,13.48055927553656
+4,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,CQR,0.8626682986536107,25.272771025719326
+4,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,CQR,0.881002824858757,40.64488701771179
+4,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,Standard CP,0.907679033649698,14.135005977638459
+4,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,Standard CP,0.8990549828178694,20.48602650365739
+4,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,Standard CP,0.6523867809057528,40.47644427416353
+4,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,Standard CP,0.3744114877589454,115.65882981677298
+4,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.8584987057808455,18.54842725375096
+4,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.8891752577319587,27.992050602149018
+4,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.8365973072215422,30.67424651783736
+4,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.8611111111111112,65.48930131669655
+4,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,EC-NCS,0.8878343399482312,14.127552935497382
+4,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,EC-NCS,0.9059278350515464,19.969495044934376
+4,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,EC-NCS,0.70734394124847,34.31681215166059
+4,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,EC-NCS,0.655484934086629,80.60734271168091
+4,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,CQR,0.6061259706643658,24.41677521868827
+4,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,CQR,0.9351374570446735,12.758401483937924
+4,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,CQR,0.8753977968176254,21.86616052269604
+4,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,CQR,0.9126647834274952,40.480148207569094
+4,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,Standard CP,0.9906583629893239,31.95076943285182
+4,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,Standard CP,0.9959641255605381,25.319279251875145
+4,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,Standard CP,0.9667660208643816,52.228014257299016
+4,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,Standard CP,0.9874668239457387,31.188689346647752
+4,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.9306049822064056,23.810120787443672
+4,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.7807174887892376,16.949237660404307
+4,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.9538002980625931,40.86157244983997
+4,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.9193453258625774,21.976112965719032
+4,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,EC-NCS,0.9483985765124555,27.689554425902955
+4,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,EC-NCS,0.968609865470852,17.856819534013667
+4,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,EC-NCS,0.9642324888226528,45.51653369956851
+4,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,EC-NCS,0.9506045414332055,21.50666832452972
+4,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,CQR,0.666814946619217,32.08545997623229
+4,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,CQR,0.9139013452914798,12.485355893015827
+4,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,CQR,0.9411326378539493,29.85337473468243
+4,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,CQR,0.8559421999410204,15.600078619395328
+4,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,Standard CP,0.9906583629893239,31.95076943285182
+4,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,Standard CP,0.9959641255605381,25.319279251875145
+4,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,Standard CP,0.9667660208643816,52.228014257299016
+4,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,Standard CP,0.9874668239457387,31.188689346647752
+4,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.7762455516014235,26.310001012221115
+4,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.7896860986547085,16.708581095423266
+4,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.9312965722801788,46.14495373568343
+4,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.9339427897375405,22.42516304081726
+4,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,EC-NCS,0.9270462633451957,23.787895216441953
+4,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,EC-NCS,0.9506726457399103,16.62377186456443
+4,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,EC-NCS,0.9439642324888227,40.99093820442571
+4,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,EC-NCS,0.9654969035682689,23.421645425257047
+4,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,CQR,0.974644128113879,24.465064290519813
+4,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,CQR,0.9887892376681614,15.715215507497213
+4,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,CQR,0.8994038748137109,36.1763627772028
+4,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,CQR,0.9954290769684458,18.381482307177745
+4,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,Standard CP,0.9906583629893239,31.95076943285182
+4,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,Standard CP,0.9959641255605381,25.319279251875145
+4,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,Standard CP,0.9667660208643816,52.228014257299016
+4,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,Standard CP,0.9874668239457387,31.188689346647752
+4,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.75,26.930735484495145
+4,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.7807174887892376,16.555009751404604
+4,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.7703427719821162,47.180232237856366
+4,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.7953406074904158,21.408842395729437
+4,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,EC-NCS,0.9350533807829181,23.59416612555267
+4,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,EC-NCS,0.9493273542600897,16.305421045219443
+4,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,EC-NCS,0.9464977645305515,41.32505244806924
+4,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,EC-NCS,0.9582718961958124,23.008689572476822
+4,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,CQR,0.9461743772241993,21.94913337281821
+4,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,CQR,0.9798206278026906,13.922898156284914
+4,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,CQR,0.8964232488822653,33.23534821399533
+4,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,CQR,0.9862872309053377,16.5397724163804
+8,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,Standard CP,0.8607979184735473,27.895306857123547
+8,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,Standard CP,0.9109805693628559,24.01383495056982
+8,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,Standard CP,0.7171372930866602,45.02422126348918
+8,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,Standard CP,0.3790959100693614,109.4482815788879
+8,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.7402428447528188,31.321122364080125
+8,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,OOF normalized CP,0.8346136466335291,23.19431326602675
+8,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.8479795520934762,40.39911030770095
+8,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.8811289165271466,60.14408666848872
+8,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,EC-NCS,0.8551604509973981,28.036984350528723
+8,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,EC-NCS,0.8734749209218255,23.295413350922676
+8,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,EC-NCS,0.7599805258033107,41.42800152875761
+8,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,EC-NCS,0.6236546280794069,76.22312457877322
+8,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,CQR,0.810928013876843,28.463379333069167
+8,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,CQR,0.9231812019882513,19.60669120592933
+8,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,CQR,0.9207643622200584,31.034857300646188
+8,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,CQR,0.8900980626644344,43.48705258910203
+8,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,Standard CP,0.8607979184735473,27.895306857123547
+8,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,Standard CP,0.9109805693628559,24.01383495056982
+8,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,Standard CP,0.7171372930866602,45.02422126348918
+8,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,Standard CP,0.3790959100693614,109.4482815788879
+8,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.7688638334778838,30.633595822435876
+8,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,OOF normalized CP,0.8264798915499322,24.77480775396335
+8,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.806475170399221,41.63831666727808
+8,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.8866299928246831,59.71699782822133
+8,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,EC-NCS,0.8074588031222897,28.752149602519594
+8,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,EC-NCS,0.9078174423859015,23.38094270714311
+8,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,EC-NCS,0.6981499513145083,43.09462644243866
+8,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,EC-NCS,0.6317866539105477,78.1422622265516
+8,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,CQR,0.8360797918473547,27.853234922594375
+8,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,CQR,0.868956168097605,21.15262124452754
+8,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,CQR,0.8678188899707887,31.512513274254594
+8,0,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,CQR,0.8849557522123894,43.42036061097405
+8,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,Standard CP,0.8607979184735473,27.895306857123547
+8,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,Standard CP,0.9109805693628559,24.01383495056982
+8,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,Standard CP,0.7171372930866602,45.02422126348918
+8,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,Standard CP,0.3790959100693614,109.4482815788879
+8,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.7697311361665221,31.02198081850858
+8,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,OOF normalized CP,0.8309986443741527,23.171953752068752
+8,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.8522395326192794,40.34762852391676
+8,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.8806505620664913,60.08797626027471
+8,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,EC-NCS,0.8790112749349523,28.22467800219908
+8,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,EC-NCS,0.8666967916854948,23.359745993116178
+8,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,EC-NCS,0.7928432327166505,40.9554401809485
+8,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,EC-NCS,0.6369289643625927,74.93742605527406
+8,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,CQR,0.836947094535993,28.05614934820099
+8,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,CQR,0.9222774514234071,19.668128312439173
+8,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,CQR,0.9185735150925024,31.01841899754331
+8,0,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,CQR,0.8887825878976321,43.43784354553252
+8,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,Standard CP,0.9484848484848485,18.083007358746944
+8,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,Standard CP,0.5769796518754596,70.6189597755952
+8,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,Standard CP,0.9387144992526159,38.187825552438674
+8,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,Standard CP,0.8554756195043964,91.49602848350304
+8,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.7376623376623377,17.921667525247162
+8,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.8684726648688404,55.18540959872981
+8,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.8385650224215246,36.899087953630875
+8,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.7646682653876898,95.85201836954562
+8,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,EC-NCS,0.8017316017316017,17.023357517910288
+8,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,EC-NCS,0.8239764648198088,53.163920170451675
+8,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,EC-NCS,0.8935392791895034,36.47407538677924
+8,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,EC-NCS,0.7916866506794564,80.31808820338645
+8,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,CQR,0.9164502164502164,12.165472355584669
+8,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,CQR,0.913214023044864,44.88873369843725
+8,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,CQR,0.8035210097990367,32.269391403616034
+8,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,CQR,0.821902478017586,23.326341815564202
+8,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,Standard CP,0.9484848484848485,18.083007358746944
+8,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,Standard CP,0.5769796518754596,70.6189597755952
+8,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,Standard CP,0.9387144992526159,38.187825552438674
+8,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,Standard CP,0.8554756195043964,91.49602848350304
+8,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.7497835497835498,18.691241195007265
+8,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.842363324344202,55.14187066180284
+8,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.8256103637269556,36.92601806928727
+8,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.7259792166266986,66.64194069708657
+8,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,EC-NCS,0.8463203463203464,16.728404764085163
+8,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,EC-NCS,0.6716106888943368,62.163398428985026
+8,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,EC-NCS,0.8858993522670653,36.74057264076069
+8,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,EC-NCS,0.781294964028777,87.21188501524247
+8,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,CQR,0.9380952380952381,12.077048313188433
+8,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,CQR,0.9164010786957588,45.099577674990144
+8,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,CQR,0.8068427171566185,31.823004055820785
+8,1,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,CQR,0.9002398081534773,22.48069664220728
+8,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,Standard CP,0.9484848484848485,18.083007358746944
+8,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,Standard CP,0.5769796518754596,70.6189597755952
+8,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,Standard CP,0.9387144992526159,38.187825552438674
+8,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,Standard CP,0.8554756195043964,91.49602848350304
+8,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.7294372294372294,18.160358559618487
+8,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.8549889678842854,55.15376424678664
+8,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.8065105464208603,36.94195457248181
+8,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.7179856115107913,96.7231506619451
+8,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,EC-NCS,0.8268398268398268,16.601279738330604
+8,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,EC-NCS,0.8335376317724933,53.18342991424479
+8,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,EC-NCS,0.8988540109616343,36.674934336780396
+8,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,EC-NCS,0.8033573141486811,79.80859406682465
+8,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,CQR,0.9367965367965368,12.506773860237313
+8,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,CQR,0.9165236577592547,44.929153449489775
+8,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,CQR,0.9139677794386315,32.28418263731076
+8,1,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,CQR,0.9087130295763389,23.107470271212932
+8,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,Standard CP,0.991391028545537,37.17692320803674
+8,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,Standard CP,0.9788519637462235,49.5834212059392
+8,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,Standard CP,0.9867436057392389,46.72061302284731
+8,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,Standard CP,0.9926211100417067,39.94690778175127
+8,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,OOF normalized CP,0.9981875849569551,78.82855338966546
+8,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.9938415059260981,73.61520630518348
+8,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.9954772301933874,89.53311446688814
+8,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.9955085017645172,39.641567423256745
+8,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,EC-NCS,0.9818758495695514,24.419086825692503
+8,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,EC-NCS,0.9796653497559842,51.14130690557202
+8,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,EC-NCS,0.9872114784778541,46.227253791829874
+8,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,EC-NCS,0.9924606993904396,38.82860179643505
+8,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,CQR,0.9986406887177164,33.58371427877294
+8,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,CQR,0.9916337438996049,46.29582245556877
+8,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,CQR,0.9939176543980037,41.11990182520992
+8,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,CQR,0.9974334295797241,36.676469073640554
+8,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,Standard CP,0.991391028545537,37.17692320803674
+8,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,Standard CP,0.9788519637462235,49.5834212059392
+8,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,Standard CP,0.9867436057392389,46.72061302284731
+8,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,Standard CP,0.9926211100417067,39.94690778175127
+8,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,OOF normalized CP,0.9836882646125963,28.885274056859725
+8,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.9271438531257262,35.187833959782346
+8,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.9683406113537117,35.177977236546646
+8,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.9095283926852743,26.543665616949575
+8,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,EC-NCS,0.9823289533303127,22.63937047629235
+8,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,EC-NCS,0.9671159656053916,41.912328954768505
+8,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,EC-NCS,0.9845601996257018,35.63557195258159
+8,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,EC-NCS,0.9890920757138274,27.769478644387764
+8,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,CQR,0.9184413230629814,16.989062114324806
+8,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,CQR,0.8966999767603997,34.20366867971921
+8,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,CQR,0.45087336244541487,43.74108580592926
+8,2,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,CQR,0.9003849855630414,19.339555335813426
+8,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,Standard CP,0.991391028545537,37.17692320803674
+8,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,Standard CP,0.9788519637462235,49.5834212059392
+8,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,Standard CP,0.9867436057392389,46.72061302284731
+8,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,Standard CP,0.9926211100417067,39.94690778175127
+8,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,OOF normalized CP,0.9687358405074762,28.926703608504656
+8,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.8890309086683709,37.66761224953136
+8,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.9848721147847785,38.46984587328783
+8,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.8848251523901187,25.33831645909405
+8,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,EC-NCS,0.9796103307657453,22.102979826908566
+8,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,EC-NCS,0.9740878456890542,43.16492276541611
+8,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,EC-NCS,0.98378041172801,35.09576781000201
+8,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,EC-NCS,0.9866859159448187,27.094391852465556
+8,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,CQR,0.8957861350249207,16.745584937346088
+8,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,CQR,0.8560306762723681,30.464028104692847
+8,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,CQR,0.8499688084840923,24.841725787399756
+8,2,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,CQR,0.890279114533205,18.31503805868284
+8,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,Standard CP,0.907679033649698,14.135005977638459
+8,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,Standard CP,0.8990549828178694,20.48602650365739
+8,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,Standard CP,0.6523867809057528,40.47644427416353
+8,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,Standard CP,0.3744114877589454,115.65882981677298
+8,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.91458153580673,15.090354129510274
+8,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.8741408934707904,20.42572081395563
+8,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.7873929008567931,33.11162473079858
+8,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.8772363465160076,59.35731933958489
+8,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,EC-NCS,0.8761863675582399,14.087973338371171
+8,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,EC-NCS,0.8913230240549829,19.899063423531715
+8,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,EC-NCS,0.6716034271725826,36.30710743674782
+8,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,EC-NCS,0.682791902071563,77.32834102718068
+8,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,CQR,0.9180327868852459,12.996906125122136
+8,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,CQR,0.9218213058419243,12.744926539085252
+8,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,CQR,0.894859241126071,19.884971266929753
+8,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,CQR,0.9227871939736346,38.97926330632897
+8,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,Standard CP,0.907679033649698,14.135005977638459
+8,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,Standard CP,0.8990549828178694,20.48602650365739
+8,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,Standard CP,0.6523867809057528,40.47644427416353
+8,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,Standard CP,0.3744114877589454,115.65882981677298
+8,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.8559102674719585,15.29121741721792
+8,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.8711340206185567,19.033318811077578
+8,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.8130966952264382,32.37292126215817
+8,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.8548728813559322,65.10240306607265
+8,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,EC-NCS,0.8899913718723037,14.092495524167909
+8,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,EC-NCS,0.8698453608247423,19.823305959297528
+8,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,EC-NCS,0.7028151774785801,35.428664465177995
+8,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,EC-NCS,0.6407721280602636,79.62725492007702
+8,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,CQR,0.902502157031924,12.878134708645096
+8,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,CQR,0.9162371134020618,12.410717840731843
+8,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,CQR,0.8829865361077112,20.508058818731982
+8,3,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,CQR,0.911723163841808,40.24710470041632
+8,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,Standard CP,0.907679033649698,14.135005977638459
+8,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,Standard CP,0.8990549828178694,20.48602650365739
+8,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,Standard CP,0.6523867809057528,40.47644427416353
+8,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,Standard CP,0.3744114877589454,115.65882981677298
+8,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.8852459016393442,14.717441070251375
+8,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.863831615120275,20.35833733825643
+8,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.7824969400244798,32.75438875405089
+8,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.533545197740113,100.86700943700161
+8,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,EC-NCS,0.8839516824849007,14.11914227088445
+8,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,EC-NCS,0.8986254295532646,19.85720188303021
+8,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,EC-NCS,0.6549571603427172,38.5427351935809
+8,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,EC-NCS,0.4974105461393597,97.819004773292
+8,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,CQR,0.9568593615185504,14.30506388082979
+8,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,CQR,0.9213917525773195,12.569328977243083
+8,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,CQR,0.8824969400244798,20.227076964684525
+8,3,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,CQR,0.4545668549905838,102.98807914901441
+8,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,Standard CP,0.9906583629893239,31.95076943285182
+8,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,Standard CP,0.9959641255605381,25.319279251875145
+8,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,Standard CP,0.9667660208643816,52.228014257299016
+8,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,Standard CP,0.9874668239457387,31.188689346647752
+8,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.9933274021352313,32.445828849662256
+8,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.9901345291479821,23.991917319191316
+8,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.9938897168405365,66.74716012235339
+8,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.9917428487171925,31.75019298620805
+8,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,EC-NCS,0.9684163701067615,28.283487744416107
+8,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,EC-NCS,0.9789237668161435,17.65214007333475
+8,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,EC-NCS,0.9651266766020864,51.47663067496995
+8,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,EC-NCS,0.9691831318195223,23.9266353052743
+8,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,CQR,0.994661921708185,31.673624149642247
+8,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,CQR,0.9986547085201793,22.93316055555498
+8,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,CQR,0.9928464977645306,40.36599989520112
+8,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,CQR,0.9977882630492481,25.68773360761994
+8,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,Standard CP,0.9906583629893239,31.95076943285182
+8,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,Standard CP,0.9959641255605381,25.319279251875145
+8,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,Standard CP,0.9667660208643816,52.228014257299016
+8,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,Standard CP,0.9874668239457387,31.188689346647752
+8,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.8305160142348754,24.69420851840887
+8,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.8730941704035874,15.395196967809177
+8,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.8789865871833085,47.6960543040502
+8,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.8737835446770864,24.525736402622208
+8,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,EC-NCS,0.9515124555160143,24.20729858368968
+8,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,EC-NCS,0.9659192825112107,16.51624380522643
+8,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,EC-NCS,0.963338301043219,46.68904618107083
+8,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,EC-NCS,0.9624004718372161,23.15484542199286
+8,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,CQR,0.8896797153024911,21.944559569387664
+8,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,CQR,0.9309417040358744,11.604372617117058
+8,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,CQR,0.5184798807749628,44.76037145939198
+8,4,1,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,CQR,0.8945738720141552,14.741003550605065
+8,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,Standard CP,0.9906583629893239,31.95076943285182
+8,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,Standard CP,0.9959641255605381,25.319279251875145
+8,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,Standard CP,0.9667660208643816,52.228014257299016
+8,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,Standard CP,0.9874668239457387,31.188689346647752
+8,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.8527580071174378,24.473695805962006
+8,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.8578475336322869,15.797623803113959
+8,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.9704918032786886,42.05640224639995
+8,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.8674432320849307,19.999306983891284
+8,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,EC-NCS,0.9283807829181495,24.543049203671234
+8,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,EC-NCS,0.9412556053811659,15.735501931175826
+8,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,EC-NCS,0.9624441132637854,46.73748353947332
+8,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,EC-NCS,0.9348274845178414,21.042649442279643
+8,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,CQR,0.9359430604982206,22.026588188569082
+8,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,CQR,0.9165919282511211,12.862592079054307
+8,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,CQR,0.953204172876304,29.217058160041177
+8,4,2,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,CQR,0.9386611618991448,14.648882889563133
+all,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,Standard CP,0.8607979184735473,27.895306857123547
+all,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,Standard CP,0.9109805693628559,24.01383495056982
+all,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,Standard CP,0.7171372930866602,45.02422126348918
+all,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,Standard CP,0.3790959100693614,109.4482815788879
+all,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.7467476149176062,31.45931062620332
+all,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,OOF normalized CP,0.815634884771803,23.473076591048038
+all,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.7839581304771178,42.54624126813998
+all,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.8657019851710117,59.56783266906969
+all,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,EC-NCS,0.8464874241110147,28.049222073447748
+all,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,EC-NCS,0.8807049254405784,23.503478370341796
+all,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,EC-NCS,0.7524342745861733,42.1649642203915
+all,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,EC-NCS,0.5853862712269792,81.30874361915157
+all,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-02.txt,CQR,0.8352124891587164,27.738235724779976
+all,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-04.txt,CQR,0.9258924536827835,19.811734856188806
+all,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-01.txt,CQR,0.924172346640701,31.485876840960966
+all,0,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-02.txt,CQR,0.8990672088017221,43.48086723681657
+all,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,Standard CP,0.9484848484848485,18.083007358746944
+all,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,Standard CP,0.5769796518754596,70.6189597755952
+all,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,Standard CP,0.9387144992526159,38.187825552438674
+all,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,Standard CP,0.8554756195043964,91.49602848350304
+all,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.758008658008658,19.567754080642377
+all,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.8475116450110322,55.50026485992387
+all,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.8013619000166086,37.148956758591936
+all,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,OOF normalized CP,0.7245403677058353,64.18833349209486
+all,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,EC-NCS,0.8510822510822511,16.645363153283167
+all,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,EC-NCS,0.6678107379259622,62.142707221974234
+all,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,EC-NCS,0.8971931572828434,36.71864516400128
+all,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,EC-NCS,0.7972821742605916,86.99583777482118
+all,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-01.txt,CQR,0.9333333333333333,12.030299563408471
+all,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-01.txt,CQR,0.9152978671242952,44.771458208142825
+all,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-03.txt,CQR,0.8018601561202459,31.739268720151102
+all,1,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-01.txt,CQR,0.897841726618705,22.382651282988952
+all,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,Standard CP,0.991391028545537,37.17692320803674
+all,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,Standard CP,0.9788519637462235,49.5834212059392
+all,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,Standard CP,0.9867436057392389,46.72061302284731
+all,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,Standard CP,0.9926211100417067,39.94690778175127
+all,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,OOF normalized CP,0.980969642048029,27.526792017506253
+all,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.9186613990239368,35.280473548051404
+all,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.9847161572052402,37.68141504412168
+all,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.8761629772216876,25.310124087209665
+all,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,EC-NCS,0.974626189397372,21.27963468050766
+all,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,EC-NCS,0.974668835696026,42.98453556748218
+all,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,EC-NCS,0.9859638178415471,36.33571941609372
+all,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,EC-NCS,0.9863650946422843,28.120301004461503
+all,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-04.txt,CQR,0.9166289080199366,16.33923967463271
+all,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-03.txt,CQR,0.8611433883337206,30.23964946981904
+all,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-02.txt,CQR,0.83873986275733,24.177848105140598
+all,2,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-03.txt,CQR,0.8856272056464549,18.25560977656667
+all,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,Standard CP,0.907679033649698,14.135005977638459
+all,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,Standard CP,0.8990549828178694,20.48602650365739
+all,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,Standard CP,0.6523867809057528,40.47644427416353
+all,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,Standard CP,0.3744114877589454,115.65882981677298
+all,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.8990509059534081,14.606202931540615
+all,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.8853092783505154,18.67241647912155
+all,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,OOF normalized CP,0.8223990208078336,32.01941688181432
+all,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,OOF normalized CP,0.8914783427495292,59.08958011020481
+all,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,EC-NCS,0.8761863675582399,14.299002553440028
+all,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,EC-NCS,0.8960481099656358,19.724244940240354
+all,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,EC-NCS,0.6752753977968177,36.5849888267339
+all,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,EC-NCS,0.5874529190207156,86.83470929156479
+all,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-01.txt,CQR,0.9275237273511648,13.076721143517494
+all,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-03.txt,CQR,0.9196735395189003,12.411249022142062
+all,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n78/v30/v2v_info-02.txt,CQR,0.8483476132190942,19.67920097814709
+all,3,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/10ms/n8/v30/v2v_info-03.txt,CQR,0.9219632768361582,38.852515858658435
+all,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,Standard CP,0.9906583629893239,31.95076943285182
+all,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,Standard CP,0.9959641255605381,25.319279251875145
+all,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,Standard CP,0.9667660208643816,52.228014257299016
+all,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,Standard CP,0.9874668239457387,31.188689346647752
+all,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,OOF normalized CP,0.8416370106761566,24.559109525279574
+all,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.874439461883408,15.121506303596306
+all,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,OOF normalized CP,0.9725782414307005,42.09747719456695
+all,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,OOF normalized CP,0.8904452963727514,18.84157564317516
+all,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,EC-NCS,0.9461743772241993,24.43031048326645
+all,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,EC-NCS,0.963677130044843,16.167204846437816
+all,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,EC-NCS,0.9637853949329359,48.87671550123263
+all,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,EC-NCS,0.9575346505455617,22.372276267298172
+all,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n78/v30/v2v_info-03.txt,CQR,0.8972419928825622,20.87744527794499
+all,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/100ms/n8/v30/v2v_info-02.txt,CQR,0.9376681614349776,13.687380101140866
+all,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n78/v30/v2v_info-01.txt,CQR,0.9602086438152012,30.15285872600313
+all,4,0,/content/cicv5g_data/repository/zxr805-CICV5G-ae05da3/data/Urban road/3-Data transmission frequency/30ms/n8/v30/v2v_info-02.txt,CQR,0.8857269242111472,14.6650595935185
