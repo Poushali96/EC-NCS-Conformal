@@ -1,0 +1,40 @@
+done 2
+done 4
+done 8
+done all
+                         cov           wink       
+                        mean    std    mean    std
+n   method                                        
+2   CQR                0.857  0.058  40.544  3.033
+    EC-NCS             0.845  0.001  41.685  1.193
+    OOF normalized CP  0.857  0.024  44.957  0.919
+    Standard CP        0.846  0.000  46.482  0.000
+4   CQR                0.846  0.031  31.926  2.459
+    EC-NCS             0.855  0.007  38.670  0.554
+    OOF normalized CP  0.830  0.026  39.842  3.250
+    Standard CP        0.846  0.000  46.482  0.000
+8   CQR                0.889  0.040  28.020  1.755
+    EC-NCS             0.861  0.007  38.481  0.697
+    OOF normalized CP  0.863  0.029  39.876  5.733
+    Standard CP        0.846  0.000  46.482  0.000
+all CQR                0.897    NaN  24.293    NaN
+    EC-NCS             0.853    NaN  38.777    NaN
+    OOF normalized CP  0.859    NaN  34.213    NaN
+    Standard CP        0.846    NaN  46.482    NaN
+2 EC -  Standard CP mean Winkler diff -4.80  EC better in 80% of run-draws
+2 EC -  OOF normalized CP mean Winkler diff -3.27  EC better in 72% of run-draws
+2 EC -  CQR mean Winkler diff 1.14  EC better in 50% of run-draws
+4 EC -  Standard CP mean Winkler diff -7.81  EC better in 87% of run-draws
+4 EC -  OOF normalized CP mean Winkler diff -1.17  EC better in 63% of run-draws
+4 EC -  CQR mean Winkler diff 6.74  EC better in 25% of run-draws
+8 EC -  Standard CP mean Winkler diff -8.00  EC better in 93% of run-draws
+8 EC -  OOF normalized CP mean Winkler diff -1.40  EC better in 58% of run-draws
+8 EC -  CQR mean Winkler diff 10.46  EC better in 13% of run-draws
+all EC -  Standard CP mean Winkler diff -7.70  EC better in 90% of run-draws
+all EC -  OOF normalized CP mean Winkler diff 4.56  EC better in 40% of run-draws
+all EC -  CQR mean Winkler diff 14.48  EC better in 0% of run-draws
+admitted share at 2% late (mean over draws):
+2 Standard CP:  36.5  OOF normalized CP:  46.9  EC-NCS:  68.5  CQR:   0.0
+4 Standard CP:  36.5  OOF normalized CP:  68.1  EC-NCS:  73.8  CQR:   4.2
+8 Standard CP:  36.5  OOF normalized CP:  73.2  EC-NCS:  74.5  CQR:  50.7
+all Standard CP:  36.5  OOF normalized CP:  75.4  EC-NCS:  75.0  CQR:  76.5

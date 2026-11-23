@@ -1,0 +1,13 @@
+{
+ "point_fit_s": 10.211834889000102,
+ "point_predict_ms": 0.009432453050195204,
+ "oof_residual_refits_s": 19.625156523999976,
+ "oof_scale_model_fit_s": 2.255712962999951,
+ "oof_scale_predict_ms": 0.003968596862114392,
+ "cqr_fit_s": 18.328158050999946,
+ "cqr_predict_ms": 0.001348154429545445,
+ "ec_explain_predict_ms": 0.132673754846662,
+ "ec_explain_train_cal_s": 4.23011011199992,
+ "ec_scale_fit_s": 0.012801775999832898,
+ "ec_gate_s": 24.607631558000094
+}

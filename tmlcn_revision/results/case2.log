@@ -1,0 +1,42 @@
+done drives 2
+done drives 4
+done drives 8
+done packets 25
+done packets 100
+done packets 400
+              mean         ...               std            
+method         CQR EC-NCS  ... OOF normalized CP Standard CP
+case    n                  ...                              
+drives  2    40.54  41.69  ...              0.92         0.0
+        4    31.93  38.67  ...              3.25         0.0
+        8    28.02  38.48  ...              5.73         0.0
+packets 100  25.57  38.12  ...              0.51         0.0
+        25   27.96  46.48  ...              0.58         0.0
+        400  24.62  38.15  ...              0.36         0.0
+
+[6 rows x 8 columns]
+drives 2 EC<Stan 80% EC<OOF  72% EC<CQR 50%
+drives 4 EC<Stan 87% EC<OOF  63% EC<CQR 25%
+drives 8 EC<Stan 93% EC<OOF  58% EC<CQR 13%
+packets 100 EC<Stan 95% EC<OOF  70% EC<CQR 8%
+packets 25 EC<Stan 0% EC<OOF  37% EC<CQR 10%
+packets 400 EC<Stan 93% EC<OOF  60% EC<CQR 3%
+admitted % at 2% late
+drives 2 25.0 Standard:   0.0  OOF norm:   0.0  EC-NCS:   1.3  CQR:   0.0
+drives 2 31.0 Standard:  36.5  OOF norm:  46.9  EC-NCS:  68.5  CQR:   0.0
+drives 2 35.0 Standard:  52.7  OOF norm:  65.3  EC-NCS:  77.7  CQR:   0.0
+drives 4 25.0 Standard:   0.0  OOF norm:   2.3  EC-NCS:   0.0  CQR:   0.5
+drives 4 31.0 Standard:  36.5  OOF norm:  68.1  EC-NCS:  73.8  CQR:   4.2
+drives 4 35.0 Standard:  52.7  OOF norm:  77.5  EC-NCS:  80.4  CQR:  28.0
+drives 8 25.0 Standard:   0.0  OOF norm:   3.8  EC-NCS:   2.2  CQR:   0.5
+drives 8 31.0 Standard:  36.5  OOF norm:  73.2  EC-NCS:  74.5  CQR:  50.7
+drives 8 35.0 Standard:  52.7  OOF norm:  79.9  EC-NCS:  81.5  CQR:  84.9
+packets 25 25.0 Standard:   0.0  OOF norm:   0.0  EC-NCS:   0.0  CQR:   0.0
+packets 25 31.0 Standard:  36.5  OOF norm:  75.4  EC-NCS:  36.5  CQR:  69.6
+packets 25 35.0 Standard:  52.7  OOF norm:  82.2  EC-NCS:  52.7  CQR:  61.6
+packets 100 25.0 Standard:   0.0  OOF norm:   1.1  EC-NCS:   1.8  CQR:   0.1
+packets 100 31.0 Standard:  36.5  OOF norm:  76.0  EC-NCS:  75.0  CQR:  78.2
+packets 100 35.0 Standard:  52.7  OOF norm:  82.7  EC-NCS:  80.7  CQR:  84.2
+packets 400 25.0 Standard:   0.0  OOF norm:   1.4  EC-NCS:   1.9  CQR:   0.9
+packets 400 31.0 Standard:  36.5  OOF norm:  75.5  EC-NCS:  74.4  CQR:  77.3
+packets 400 35.0 Standard:  52.7  OOF norm:  82.3  EC-NCS:  81.0  CQR:  85.1

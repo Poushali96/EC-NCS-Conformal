@@ -1,0 +1,285 @@
+{
+ "budget_train_p90_ms": 31.0,
+ "n_test_packets": 106582,
+ "budget_at_p90": {
+  "Point prediction": {
+   "admitted": 0.9049370437784992,
+   "violating_among_admitted": 0.06607568688439606,
+   "admitted_ci": [
+    0.8394890760662793,
+    0.9630032537403689
+   ],
+   "violating_ci": [
+    0.02363995204470399,
+    0.1272687184280308
+   ]
+  },
+  "Standard CP": {
+   "admitted": 0.4605280441350322,
+   "violating_among_admitted": 0.02803357509575422,
+   "admitted_ci": [
+    0.2561414543743981,
+    0.6651487071705452
+   ],
+   "violating_ci": [
+    0.009160448324194253,
+    0.06367500316140035
+   ]
+  },
+  "OOF Normalized CP": {
+   "admitted": 0.6723274098815936,
+   "violating_among_admitted": 0.009629071422590639,
+   "admitted_ci": [
+    0.49142949816919484,
+    0.8342887390228226
+   ],
+   "violating_ci": [
+    0.005700888678753409,
+    0.015497846972308982
+   ]
+  },
+  "CQR": {
+   "admitted": 0.7547428271190257,
+   "violating_among_admitted": 0.008540314760945775,
+   "admitted_ci": [
+    0.5409112374615745,
+    0.9196089292236429
+   ],
+   "violating_ci": [
+    0.005104659555143507,
+    0.012045523443738933
+   ]
+  },
+  "Validation-gated EC-NCS": {
+   "admitted": 0.6405021485804357,
+   "violating_among_admitted": 0.014633931971991913,
+   "admitted_ci": [
+    0.4361997576695249,
+    0.8240835550745019
+   ],
+   "violating_ci": [
+    0.005939351417163411,
+    0.032623726601379216
+   ]
+  }
+ },
+ "violation_rate_all_packets_at_p90": 0.08599951211273948,
+ "cal_runs_per_frequency_per_fold": {
+  "0": {
+   "10": 1,
+   "100": 0
+  },
+  "1": {
+   "10": 2,
+   "33": 0,
+   "100": 1
+  },
+  "2": {
+   "10": 2,
+   "33": 0,
+   "100": 1
+  },
+  "3": {
+   "10": 1,
+   "100": 0
+  },
+  "4": {
+   "10": 1,
+   "33": 0
+  }
+ },
+ "run_mean_by_calibration": {
+  "Calibration per frequency|CQR": {
+   "Coverage": 0.8947,
+   "Width": 12.7385,
+   "Winkler": 24.2992
+  },
+  "Calibration per frequency|OOF Normalized CP": {
+   "Coverage": 0.87,
+   "Width": 16.815,
+   "Winkler": 34.1534
+  },
+  "Calibration per frequency|Standard CP": {
+   "Coverage": 0.8278,
+   "Width": 16.4282,
+   "Winkler": 44.9506
+  },
+  "Calibration per frequency|Validation-gated EC-NCS": {
+   "Coverage": 0.8423,
+   "Width": 14.8304,
+   "Winkler": 40.1995
+  },
+  "Pooled calibration|CQR": {
+   "Coverage": 0.8967,
+   "Width": 12.8047,
+   "Winkler": 24.2928
+  },
+  "Pooled calibration|OOF Normalized CP": {
+   "Coverage": 0.8612,
+   "Width": 16.8165,
+   "Winkler": 34.1175
+  },
+  "Pooled calibration|Standard CP": {
+   "Coverage": 0.8456,
+   "Width": 18.5839,
+   "Winkler": 46.4813
+  },
+  "Pooled calibration|Validation-gated EC-NCS": {
+   "Coverage": 0.856,
+   "Width": 15.6365,
+   "Winkler": 40.333
+  }
+ },
+ "coverage_by_frequency": {
+  "Calibration per frequency|CQR|10": 0.9105,
+  "Calibration per frequency|CQR|33": 0.8783,
+  "Calibration per frequency|CQR|100": 0.8899,
+  "Calibration per frequency|OOF Normalized CP|10": 0.8902,
+  "Calibration per frequency|OOF Normalized CP|33": 0.8746,
+  "Calibration per frequency|OOF Normalized CP|100": 0.8385,
+  "Calibration per frequency|Standard CP|10": 0.8882,
+  "Calibration per frequency|Standard CP|33": 0.9546,
+  "Calibration per frequency|Standard CP|100": 0.6205,
+  "Calibration per frequency|Validation-gated EC-NCS|10": 0.885,
+  "Calibration per frequency|Validation-gated EC-NCS|33": 0.9473,
+  "Calibration per frequency|Validation-gated EC-NCS|100": 0.6804,
+  "Pooled calibration|CQR|10": 0.9116,
+  "Pooled calibration|CQR|33": 0.8783,
+  "Pooled calibration|CQR|100": 0.895,
+  "Pooled calibration|OOF Normalized CP|10": 0.851,
+  "Pooled calibration|OOF Normalized CP|33": 0.8746,
+  "Pooled calibration|OOF Normalized CP|100": 0.8613,
+  "Pooled calibration|Standard CP|10": 0.9381,
+  "Pooled calibration|Standard CP|33": 0.9546,
+  "Pooled calibration|Standard CP|100": 0.6131,
+  "Pooled calibration|Validation-gated EC-NCS|10": 0.9177,
+  "Pooled calibration|Validation-gated EC-NCS|33": 0.9473,
+  "Pooled calibration|Validation-gated EC-NCS|100": 0.6825
+ },
+ "runs_below_0.8": {
+  "Calibration per frequency|CQR": 0,
+  "Calibration per frequency|OOF Normalized CP": 4,
+  "Calibration per frequency|Standard CP": 5,
+  "Calibration per frequency|Validation-gated EC-NCS": 5,
+  "Pooled calibration|CQR": 0,
+  "Pooled calibration|OOF Normalized CP": 5,
+  "Pooled calibration|Standard CP": 5,
+  "Pooled calibration|Validation-gated EC-NCS": 5
+ },
+ "frequency_calibration_tests": {
+  "Standard CP": {
+   "coverage_error_pooled": 0.1340491173845357,
+   "coverage_error_freq": 0.11991152065084736,
+   "wilcoxon_p_ce": 0.09260069782067576,
+   "winkler_pooled": 46.48133842392717,
+   "winkler_freq": 44.95058096148796,
+   "wilcoxon_p_winkler": 0.1688069535565081
+  },
+  "OOF Normalized CP": {
+   "coverage_error_pooled": 0.06483078673792868,
+   "coverage_error_freq": 0.05718927106510043,
+   "wilcoxon_p_ce": 0.20262160771231197,
+   "winkler_pooled": 34.11747146471026,
+   "winkler_freq": 34.15344884432183,
+   "wilcoxon_p_winkler": 0.3862707203664827
+  },
+  "CQR": {
+   "coverage_error_pooled": 0.03157768450038766,
+   "coverage_error_freq": 0.031235347717731683,
+   "wilcoxon_p_ce": 1.0,
+   "winkler_pooled": 24.292758508033465,
+   "winkler_freq": 24.299151870553263,
+   "wilcoxon_p_winkler": 0.779434528427275
+  },
+  "Validation-gated EC-NCS": {
+   "coverage_error_pooled": 0.10864667384333981,
+   "coverage_error_freq": 0.10185935906458166,
+   "wilcoxon_p_ce": 0.1688069535565081,
+   "winkler_pooled": 40.33302547515269,
+   "winkler_freq": 40.19948923944791,
+   "wilcoxon_p_winkler": 0.5750621301739497
+  }
+ },
+ "coverage_by_cal_has_freq": {
+  "CQR|False": {
+   "mean": 0.886355496466676,
+   "runs": 10
+  },
+  "CQR|True": {
+   "mean": 0.9069615860840392,
+   "runs": 10
+  },
+  "OOF Normalized CP|False": {
+   "mean": 0.8641398377133225,
+   "runs": 10
+  },
+  "OOF Normalized CP|True": {
+   "mean": 0.8581997921915546,
+   "runs": 10
+  },
+  "Standard CP|False": {
+   "mean": 0.7850819151168799,
+   "runs": 10
+  },
+  "Standard CP|True": {
+   "mean": 0.9060842485505901,
+   "runs": 10
+  },
+  "Validation-gated EC-NCS|False": {
+   "mean": 0.8078754730966807,
+   "runs": 10
+  },
+  "Validation-gated EC-NCS|True": {
+   "mean": 0.9041392135386488,
+   "runs": 10
+  }
+ },
+ "coverage_100hz_by_cal_has_freq": {
+  "CQR|False": {
+   "mean": 0.8983876113744189,
+   "runs": 4
+  },
+  "CQR|True": {
+   "mean": 0.8882206277290079,
+   "runs": 2
+  },
+  "OOF Normalized CP|False": {
+   "mean": 0.8484110777206423,
+   "runs": 4
+  },
+  "OOF Normalized CP|True": {
+   "mean": 0.8869912477466162,
+   "runs": 2
+  },
+  "Standard CP|False": {
+   "mean": 0.53075786795518,
+   "runs": 4
+  },
+  "Standard CP|True": {
+   "mean": 0.7779158078108416,
+   "runs": 2
+  },
+  "Validation-gated EC-NCS|False": {
+   "mean": 0.5987455032913854,
+   "runs": 4
+  },
+  "Validation-gated EC-NCS|True": {
+   "mean": 0.8499813866697448,
+   "runs": 2
+  }
+ },
+ "coverage_by_frequency_pooled": {
+  "CQR|10": 0.9116468256727969,
+  "CQR|33": 0.8783340865281808,
+  "CQR|100": 0.8949986168259486,
+  "OOF Normalized CP|10": 0.851001928302789,
+  "OOF Normalized CP|33": 0.8746256777084428,
+  "OOF Normalized CP|100": 0.8612711343959668,
+  "Standard CP|10": 0.9381263587355273,
+  "Standard CP|33": 0.9546312798913464,
+  "Standard CP|100": 0.6131438479070671,
+  "Validation-gated EC-NCS|10": 0.9176786702558746,
+  "Validation-gated EC-NCS|33": 0.9472954529668778,
+  "Validation-gated EC-NCS|100": 0.6824907977508387
+ }
+}

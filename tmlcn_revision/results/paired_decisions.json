@@ -1,0 +1,75 @@
+{
+ "B": 31.0,
+ "tables": {
+  "all": {
+   "n": 106582,
+   "gain_ok": 21277,
+   "gain_late": 124,
+   "drop_ok": 1718,
+   "drop_late": 501,
+   "both_admit": 46865,
+   "both_admit_late": 875,
+   "scp_adm": 49084,
+   "scp_late": 1376,
+   "ec_adm": 68266,
+   "ec_late": 999
+  },
+  "10Hz": {
+   "n": 18160,
+   "gain_ok": 4219,
+   "gain_late": 19,
+   "drop_ok": 164,
+   "drop_late": 0,
+   "both_admit": 11561,
+   "both_admit_late": 51,
+   "scp_adm": 11725,
+   "scp_late": 51,
+   "ec_adm": 15799,
+   "ec_late": 70
+  },
+  "33Hz": {
+   "n": 38414,
+   "gain_ok": 14640,
+   "gain_late": 76,
+   "drop_ok": 178,
+   "drop_late": 15,
+   "both_admit": 19263,
+   "both_admit_late": 98,
+   "scp_adm": 19456,
+   "scp_late": 113,
+   "ec_adm": 33979,
+   "ec_late": 174
+  },
+  "100Hz": {
+   "n": 50008,
+   "gain_ok": 2418,
+   "gain_late": 29,
+   "drop_ok": 1376,
+   "drop_late": 486,
+   "both_admit": 16041,
+   "both_admit_late": 726,
+   "scp_adm": 17903,
+   "scp_late": 1212,
+   "ec_adm": 18488,
+   "ec_late": 755
+  }
+ },
+ "ci_share_pct": [
+  [
+   7.197924718372121,
+   35.15391003242953
+  ],
+  [
+   0.03830777452863438,
+   0.20493760790987045
+  ],
+  [
+   0.38115394884297976,
+   3.019694615419496
+  ],
+  [
+   0.009071584335174928,
+   1.2535721383613356
+  ]
+ ]
+}
